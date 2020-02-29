@@ -1,6 +1,8 @@
 README Manifest // ONE NATION
 =============================
 
+ > Welcome home ! One Nation is headless so you are free to collaborate/append/modifiy/fork anything without asking permission. [Read our Contribution Guide](./contribution_guide.md)
+
 ## EN
 
 By **"nation"** we mean : Vast group of human beings, conscious about their unity and sharing a common desire to live together.

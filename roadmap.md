@@ -1,7 +1,7 @@
 Roadmap // ONE NATION
 =====================
 
- > Welcome home ! One Nation is headless so you are free to collaborate/append/modifiy/fork anything without permission. [Read more]
+ > Welcome home ! One Nation is headless so you are free to collaborate/append/modifiy/fork anything without asking permission. [Read our Contribution Guide](./contribution_guide.md)
 
 Actual version of One Nation : **v1.0**
 
