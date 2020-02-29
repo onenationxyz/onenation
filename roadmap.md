@@ -9,23 +9,23 @@ Actual version of One Nation : **v1.0**
 
 ##### v1.0
 
-- Write [The Manifest]
+- Write [The Manifest](./manifest)
 - Give the nation a name & logo
-- Imagine a [roadmap]
-- Publish everything on Github (onenationxyz)
+- Imagine a roadmap
+- Publish everything on Github [https://github.com/onenationxyz/onenation](https://github.com/onenationxyz/onenation)
 
 ##### v1.1
 
 - Create a website at https://onenation.xyz
 - Find a place to work together (Telegram ?)
-- Translate [The Manifest] to other languages
-- Design a basic ID card with basic ID registry for One Nation beings [read more]
+- Translate [The Manifest](./manifest) to other languages
+- Design a basic ID card with basic ID registry for One Nation beings
 - Make a viral video, spread the good news
 
 ##### v1.2
 
 - Add features and content to the website 
-- Design & create **"Wouino"** our official voice (Q&A chatbot)  [read more]
+- Design & create **"Wouino"** our official spokesperson (community driven chatbot)
 - Observe how things self-organize and surf on it
 
 #### Version 2 - Refine
