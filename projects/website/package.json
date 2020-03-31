@@ -1,14 +1,15 @@
 {
-  "name": "foundation-zurb-template",
+  "name": "onenationxyz",
   "version": "1.0.0",
-  "description": "Official ZURB Template for Foundation for Sites.",
+  "description": "Global Emancipation",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
-    "build": "gulp build --production"
+    "build": "gulp build --production",
+    "deploy": "gh-pages -d dist -m \"Let's emancipate\""
   },
-  "author": "ZURB <foundation@zurb.com>",
-  "license": "MIT",
+  "author": "Anyone <onenationxyz@protonmail.com>",
+  "license": "",
   "dependencies": {
     "foundation-sites": "^6.6.0",
     "jquery": "^3.2.1",
@@ -22,6 +23,7 @@
     "autoprefixer": "^9.1.5",
     "babel-loader": "^8.0.4",
     "browser-sync": "^2.10.0",
+    "gh-pages": "^2.2.0",
     "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^3.3.1",
@@ -47,11 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/foundation-zurb-template.git"
-  },
-  "bugs": {
-    "url": "https://github.com/zurb/foundation-sites/issues",
-    "email": "foundation@zurb.com"
+    "url": "https://github.com/onenationxyz/onenation.git"
   },
   "private": true
 }

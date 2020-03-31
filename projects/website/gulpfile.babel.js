@@ -33,7 +33,7 @@ function loadConfig() {
 // Build the "dist" folder by running all of the below tasks
 // Sass must be run later so UnCSS can search for used classes in the others assets.
 gulp.task('build',
- gulp.series(clean, gulp.parallel(pages, javascript, images, copy), sass, styleGuide));
+ gulp.series(clean, gulp.parallel(pages, javascript, images, copy), sass, styleGuide, cname));
 
 // Build the site, run the server, and watch for file changes
 gulp.task('default',
@@ -70,6 +70,11 @@ function styleGuide(done) {
     output: PATHS.dist + '/styleguide.html',
     template: 'src/styleguide/template.html'
   }, done);
+}
+
+// GitHub Pages needs a CNAME file at root of gh-pages branch
+function cname(done) {
+    fs.writeFile(PATHS.dist + '/CNAME', 'onenation.xyz', done);
 }
 
 // Compile Sass into CSS
