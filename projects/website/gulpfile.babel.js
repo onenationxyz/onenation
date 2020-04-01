@@ -16,6 +16,9 @@ import named         from 'vinyl-named';
 import uncss         from 'uncss';
 import autoprefixer  from 'autoprefixer';
 
+// https://github.com/foundation/panini/issues/143#issuecomment-335877866
+let paniniInstance;
+
 // Load all Gulp plugins into one variable
 const $ = plugins();
 
@@ -54,14 +57,14 @@ function copy() {
 
 // Copy page templates into finished HTML files
 function pages() {
-  return panini('src', {})
-    .pipe(gulp.dest(PATHS.dist));
+  const stream = panini('src', {});
+  paniniInstance = stream._panini;
+  return stream.pipe(gulp.dest(PATHS.dist));
 }
 
 // Load updated HTML templates and partials into Panini
 function resetPages(done) {
-  panini.refresh();
-  done();
+    return paniniInstance.refresh();
 }
 
 // Generate a style guide from the Markdown content and HTML template in styleguide/
@@ -161,8 +164,9 @@ function reload(done) {
 // Watch for changes to static assets, pages, Sass, and JavaScript
 function watch() {
   gulp.watch(PATHS.assets, copy);
-  gulp.watch('src/pages/**/*.html').on('all', gulp.series(pages, browser.reload));
-  gulp.watch('src/{layouts,partials}/**/*.html').on('all', gulp.series(resetPages, pages, browser.reload));
+  gulp.watch('src/pages/**/*.{html,hbs}').on('all', gulp.series(pages, browser.reload));
+  gulp.watch('src/{layouts,partials}/**/*.{html,hbs}').on('all', gulp.series(resetPages, pages, browser.reload));
+  gulp.watch('src/locales/**/*.{js,json,yml,md}').on('all', gulp.series(resetPages, pages, browser.reload));
   gulp.watch('src/data/**/*.{js,json,yml}').on('all', gulp.series(resetPages, pages, browser.reload));
   gulp.watch('src/helpers/**/*.js').on('all', gulp.series(resetPages, pages, browser.reload));
   gulp.watch('src/assets/scss/**/*.scss').on('all', sass);
