@@ -1,0 +1,18 @@
+<section id="manifest" class="grid-container" data-magellan-target="manifest">
+  <div class="grid-x align-right">
+
+    <div class="cell sheet">
+      <h2>{{translate "global.manifest.title"}}</h2>
+
+      {{#markdown}}{{read (replace "src/locales/[lang]/manifest.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+
+      <a href="{{translate "global.links.manifest_pdf"}}" class="button">{{translate "global.manifest.sign"}}</a>
+    </div>
+
+    <div class="cell shrink download_link">
+      <a href="{{translate "global.links.manifest_github"}}" target="_blank">{{translate "global.manifest.github"}}</a> //
+      <a href="{{translate "global.links.manifest_pdf"}}" target="_blank">{{translate "global.manifest.download"}}</a>
+    </div>
+
+  </div>
+</section>

@@ -1,0 +1,33 @@
+<section id="faq" class="grid-container" data-magellan-target="faq">
+  <div class="grid-x">
+    <div class="cell">
+      <h2>{{translate "global.faq.title"}}</h2>
+
+      <ul class="accordion" data-accordion data-multi-expand="true" data-allow-all-closed="true" data-deep-link="true" data-update-history="false" data-deep-link-smudge="true" data-deep-link-smudge-delay="500">
+        {{#each (translate "faq")}}
+          <li class="accordion-item" data-accordion-item>
+            <a href="#faq-{{@key}}" class="accordion-title">{{this.q}}</a>
+            <div class="accordion-content" data-tab-content id="faq-{{@key}}">
+              {{#markdown}}{{this.a}}{{/markdown}}
+            </div>
+          </li>
+        {{/each}}
+      </ul>
+    </div>
+
+    <div class="cell">
+      <h3>{{translate "global.boring_faq.title"}}</h3>
+
+      <ul class="accordion" data-accordion data-multi-expand="true" data-allow-all-closed="true" data-deep-link="true" data-update-history="false" data-deep-link-smudge="true" data-deep-link-smudge-delay="500">
+        {{#each (translate "boring_faq")}}
+          <li class="accordion-item" data-accordion-item>
+            <a href="#faq-{{@key}}" class="accordion-title">{{this.q}}</a>
+            <div class="accordion-content" data-tab-content id="faq-{{@key}}">
+              {{#markdown}}{{this.a}}{{/markdown}}
+            </div>
+          </li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+</section>

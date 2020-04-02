@@ -1,0 +1,9 @@
+<section id="disclaimer" class="grid-container" data-magellan-target="disclaimer">
+  <div class="grid-x">
+    <div class="cell">
+      <h2>{{translate "global.disclaimer.title"}}</h2>
+
+      {{#markdown}}{{read (replace "src/locales/[lang]/disclaimer.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+    </div>
+  </div>
+</section>

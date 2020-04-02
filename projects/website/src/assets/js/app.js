@@ -15,3 +15,7 @@ import './lib/foundation-explicit-pieces';
 
 
 $(document).foundation();
+
+$('[name="language"]').change(function () {
+    document.location = '/' + (this.value !== "en" ? this.value : "");
+});

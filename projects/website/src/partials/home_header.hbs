@@ -1,0 +1,27 @@
+<header id="home_header">
+  
+  <div class="grid-container">
+    <div class="grid-x">
+      <div class="logo cell small-6 large-4">
+        <img src="{{ root }}assets/img/onenation_logo.png" alt="One Nation. Global Emancipation">
+      </div>
+
+      <div id="languages" class="cell small-6 large-4">
+        <select name="language">
+          <option value="" disabled selected>{{translate "global.home_header.select_lang"}} [lang:{{translate "global.lang"}}]</option>
+          {{#each global.languages}}
+            <option value="{{this.slug}}">{{this.name}}</option>
+          {{/each}}
+        </select>
+      </div>
+    </div>
+  </div>
+  
+
+  <a class="github-fork-ribbon" href="{{global.github_url}}" data-ribbon="{{translate "global.home_header.forkme"}}" title="{{translate "global.home_header.forkme"}}">{{translate "global.home_header.forkme"}}</a>
+  
+  <div id="earth">
+    
+  </div>
+  
+</header>

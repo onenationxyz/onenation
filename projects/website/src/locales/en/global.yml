@@ -1,0 +1,47 @@
+lang: en
+
+links: 
+  manifest: "#manifest"
+  vision: "#vision"
+  faq: "#faq"
+  roadmap: "#roadmap"
+  contribute: "#contribute"
+  manifest_github: ???
+  manifest_pdf: ???
+
+home_header:
+  select_lang: Choisir langue
+  forkme: Fork me on Github
+
+menu:
+  manifest: Manifeste
+  vision: Vision
+  faq: FAQ
+  roadmap: Feuille de route
+  contribute: Contribuer
+
+manifest:
+  title: Le Manifeste
+  sign: Signer le manifeste
+  github: Original sur Github
+  download: Version PDF
+  
+disclaimer:
+  title: Attention
+  
+faq:
+  title: Foire Aux Questions
+  
+boring_faq: 
+  title: Les questions-flemme
+
+roadmap:
+  title: Feuille de route
+  buttons:
+    github: Github
+    contribute: Contribuer
+
+contribute: 
+  title: Comment participer ?
+  text: |
+    À rédiger
