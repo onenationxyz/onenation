@@ -1,18 +1,18 @@
 heart:
   title: |
     **Le Cœur** de One Nation
-  text: |
+  text1: |
     Les gouvernements échouent dans leur mission.  
     Ils ne prennent soin ni des Êtres humains ni de la Terre.  
     Nous n'avons plus confiance, ils ont perdu notre respect.  
-    
-    <p class="text-right">Mais alors, que faire ?</p>
-    
+  text2: |
+    Mais alors, que faire ?
+  text3: |
     Se plaindre ? _Quel ennui..._  
     Manifester ? _Trop dangereux !_  
     Voter ? _Aucun effet_  
     Combattre ? _La flemme !_
-    
+  text4: |
     **Et si on créait plutôt une Nation !?**
     
 mind:
@@ -33,10 +33,10 @@ body:
   title: |
     **Le Corps** de One Nation
   text: |
-    One Nation vit d’abord en chacun de nous, chaque fois qu'un Être humain signe le Manifeste en âme et conscience.
+    One Nation vit d’abord **en chacun de nous**, chaque fois qu'un Être humain signe le Manifeste en âme et conscience.
     
-    Ensemble nous formons un réseau décentralisé d'Êtres humains et d'oasis incarnant les valeurs du Manifeste.
+    Ensemble nous formons un **réseau décentralisé** d'Êtres humains et d'oasis incarnant les valeurs du Manifeste.
     
     Chaque oasis, fixe ou mobile, est libre d'expérimenter l'organisation qui lui correspond.
     
-    One Nation connecte les projets open source qui proposent une alternative aux instruments habituels du pouvoir (identité, monnaie, éducation, travail ...).
+    One Nation connecte les **projets open source** qui proposent une **alternative aux instruments habituels du pouvoir** (identité, monnaie, éducation...).

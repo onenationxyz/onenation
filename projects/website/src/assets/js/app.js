@@ -16,6 +16,12 @@ import './lib/foundation-explicit-pieces';
 
 $(document).foundation();
 
-$('[name="language"]').change(function () {
-    document.location = '/' + (this.value !== "en" ? this.value : "");
-});
+// Sticky Mobile nav
+const scrollThreshold = 100;
+window.onscroll = function() {
+    if (window.pageYOffset > scrollThreshold) {
+        $("#mobile_nav").addClass("ons-sticky");
+    } else {
+        $("#mobile_nav").removeClass("ons-sticky");
+    }
+};

@@ -1,6 +1,6 @@
-Est entendu par nation : "Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun ». 
+**Est entendu par nation :** "Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun ». 
 
-One Nation est profondément non-violente. [En savoir +](???)
+**One Nation est profondément non-violente.** [En savoir +](???)
 
 **One Nation n’est pas et ne sera jamais** un pays, un état, un parti politique, une institution, une association, une ONG, une entreprise, une secte, un nouvel ordre mondial [En savoir +](???)
 

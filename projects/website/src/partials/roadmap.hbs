@@ -1,52 +1,51 @@
 <section id="roadmap" class="grid-container" data-magellan-target="roadmap">
-  <div class="grid-x">
-    <div class="cell sheet">
-
-      <h2>{{translate "global.roadmap.title"}}</h2>
-
-      <div class="bold-red">
-        {{#markdown}}{{translate "roadmap.intro.p1"}}{{/markdown}}
-        <p class="text-center font-bold">{{translate "roadmap.intro.version"}} : v{{global.onenation_version}}</p>
-        {{#markdown}}{{translate "roadmap.intro.p2"}}{{/markdown}}
-
-        <ul class="menu">
-          <li><a href="???">[{{translate "global.roadmap.buttons.github"}}]</a></li>
-          <li><a href="???">[{{translate "global.roadmap.buttons.contribute"}}]</a></li>
-        </ul>
+  <div class="ons-sheet">
+    <div class="grid-x grid-margin-x grid-padding-y align-center">
+      <div class="cell shrink">
+        <h2>{{translate "global.roadmap.title"}}</h2>
       </div>
 
-      <div class="todo all-red">
-        <h5 class="revert-color">{{translate "roadmap.v1.title"}}</h5>
+      <div class="cell expanded ons-strong-red">
+        {{#markdown}}{{translate "roadmap.intro.p1"}}{{/markdown}}
 
-        <h6>{{translate "roadmap.v1-0.title"}}</h6>
-        {{#markdown}}{{translate "roadmap.v1-0.todo"}}{{/markdown}}
+        <p class="text-center"><strong>{{translate "roadmap.intro.version"}} : v{{global.onenation_version}}</strong></p>
 
+        {{#markdown}}{{translate "roadmap.intro.p2"}}{{/markdown}}
+
+        <p class="text-center">
+          <a href="???" class="ons-link">{{translate "global.roadmap.buttons.github"}}</a>&nbsp;
+          <a href="???" class="ons-link">{{translate "global.roadmap.buttons.contribute"}}</a>
+        </p>
+      </div>
+
+      <div class="cell expanded ons-todo ons-all-red">
+        <h5 class="ons-label-red">{{translate "roadmap.v1.title"}}</h5>
+        <div class="ons-todo-done">{{#markdown}}{{translate "roadmap.v1-0.todo"}}{{/markdown}}</div>
         <h6>{{translate "roadmap.v1-1.title"}}</h6>
         {{#markdown}}{{translate "roadmap.v1-1.todo"}}{{/markdown}}
       </div>
 
-      <div class="todo all-gray">
-        <h5 class="revert-color">{{translate "roadmap.v2.title"}}</h5>
+      <div class="cell expanded ons-todo ons-all-gray">
+        <h5 class="ons-label-gray">{{translate "roadmap.v2.title"}}</h5>
         {{#markdown}}{{translate "roadmap.v2.todo"}}{{/markdown}}
       </div>
 
 
-      <div class="todo all-blue">
-        <h5 class="revert-color">{{translate "roadmap.v3.title"}}</h5>
+      <div class="cell expanded ons-todo ons-all-blue">
+        <h5 class="ons-label-blue">{{translate "roadmap.v3.title"}}</h5>
         {{#markdown}}{{translate "roadmap.v3.todo"}}{{/markdown}}
       </div>
 
 
-      <div class="todo all-yellow">
-        <h5 class="revert-color">{{translate "roadmap.v4.title"}}</h5>
+      <div class="cell expanded ons-todo ons-all-yellow">
+        <h5 class="ons-label-yellow">{{translate "roadmap.v4.title"}}</h5>
         {{#markdown}}{{translate "roadmap.v4.todo"}}{{/markdown}}
       </div>
 
-      <div class="todo">
-        <h5 class="revert-color">{{translate "roadmap.vfinal.title"}}</h5>
+      <div class="cell expanded ons-todo">
+        <h5 class="ons-label-black">{{translate "roadmap.vfinal.title"}}</h5>
         {{#markdown}}{{translate "roadmap.vfinal.text"}}{{/markdown}}
       </div>
-
     </div>
   </div>
 </section>

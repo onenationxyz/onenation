@@ -1,9 +1,12 @@
-<section id="disclaimer" class="grid-container" data-magellan-target="disclaimer">
-  <div class="grid-x">
-    <div class="cell">
-      <h2>{{translate "global.disclaimer.title"}}</h2>
-
-      {{#markdown}}{{read (replace "src/locales/[lang]/disclaimer.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+<section id="disclaimer" class="grid-container ons-all-red" data-magellan-target="disclaimer">
+  <div class="grid-x grid-padding-x grid-margin-y align-center align-middle">
+    
+    <div class="cell shrink ons-title">
+      <h3><strong><span>¡</span>{{translate "global.disclaimer.title"}}<span>!</span></strong></h3>
     </div>
+
+     <div class="cell medium-11 expand ons-text">
+       {{#markdown}}{{read (replace "src/locales/[lang]/disclaimer.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+     </div>
   </div>
 </section>

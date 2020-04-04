@@ -1,27 +1,29 @@
 <header id="home_header">
-  
   <div class="grid-container">
-    <div class="grid-x">
-      <div class="logo cell small-6 large-4">
+    <div class="grid-x align-justify align-middle">
+      <div class="logo cell small-9 medium-7">
         <img src="{{ root }}assets/img/onenation_logo.png" alt="One Nation. Global Emancipation">
       </div>
-
-      <div id="languages" class="cell small-6 large-4">
-        <select name="language">
-          <option value="" disabled selected>{{translate "global.home_header.select_lang"}} [lang:{{translate "global.lang"}}]</option>
-          {{#each global.languages}}
-            <option value="{{this.slug}}">{{this.name}}</option>
-          {{/each}}
-        </select>
+      <div class="cell small-3 medium-5 text-right">
+        <a href="{{global.github_url}}" class="github-fork-ribbon hide-for-small-only" data-ribbon="{{translate "global.home_header.forkme"}}">{{translate "global.home_header.forkme"}}</a>
+        
+        <ul class="dropdown menu align-right" data-dropdown-menu>
+          <li class="is-dropdown-submenu-parent">
+            <a><span class="hide-for-small-only">Lang : </span><strong>{{translate "global.lang"}}</strong></a>
+            <ul class="menu">
+              {{#each global.languages}}
+                <li><a href="/{{this.slug}}">{{this.name}}</a></li>
+              {{/each}}
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
-  
-
-  <a class="github-fork-ribbon" href="{{global.github_url}}" data-ribbon="{{translate "global.home_header.forkme"}}" title="{{translate "global.home_header.forkme"}}">{{translate "global.home_header.forkme"}}</a>
-  
-  <div id="earth">
-    
-  </div>
-  
 </header>
+
+<!--<div style="background-color: #fff;position: fixed;bottom: 0;right: 0;padding: 2px 5px;margin: 2px;">
+  <span class="show-for-small-only">small</span>
+  <span class="show-for-medium-only">medium</span>
+  <span class="show-for-large">large</span>
+</div>-->

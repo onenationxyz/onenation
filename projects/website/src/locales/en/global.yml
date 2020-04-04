@@ -10,7 +10,6 @@ links:
   manifest_pdf: ???
 
 home_header:
-  select_lang: Choisir langue
   forkme: Fork me on Github
 
 menu:
@@ -23,23 +22,23 @@ menu:
 manifest:
   title: Le Manifeste
   sign: Signer le manifeste
-  github: Original sur Github
-  download: Version PDF
+  download: Télécharger le PDF
+  github: Voir l'original
   
 disclaimer:
-  title: Attention
+  title: Lisez-moi
   
 faq:
   title: Foire Aux Questions
   
 boring_faq: 
-  title: Les questions-flemme
+  title: Les questions 🥱
 
 roadmap:
   title: Feuille de route
   buttons:
-    github: Github
-    contribute: Contribuer
+    github: Roadmap sur Github
+    contribute: Guide de contribution
 
 contribute: 
   title: Comment participer ?

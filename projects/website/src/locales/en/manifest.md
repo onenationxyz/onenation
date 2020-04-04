@@ -1,4 +1,4 @@
-#### Considérant que (ENGLISH)
+#### Considérant
 
 - Que la Terre est un grand organisme vivant.  
 - Qu’une infinité de formes de vie y cohabitent en interdépendance.  
@@ -20,4 +20,4 @@
 - Me saisir de mon pouvoir d’être humain vivant pour l’employer au service de l’harmonie.   
 - Recourir à la désobéissance joyeuse et pacifique, lorsque les droits fondamentaux du vivant sont en danger.
 
-_Je reconnais ce pacte qui me lie à moi-même et à la Terre. Je rejoins par le cœur les Êtres émancipés de One Nation par delà les océans et les continents._
+Je reconnais ce pacte qui me lie à moi-même et à la Terre. Je rejoins par le cœur les Êtres émancipés de One Nation par delà les océans et les continents.
