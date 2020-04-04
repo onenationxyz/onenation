@@ -1,7 +1,7 @@
 Manifeste // ONE NATION
 =======================
 
-#### Considérant que
+#### Considérant
 
 Que la Terre est un grand organisme vivant.  
 Qu’une infinité de formes de vie y cohabitent en interdépendance.  
