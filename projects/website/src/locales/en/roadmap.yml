@@ -11,30 +11,30 @@ v1:
 v1-0:
   title: v1.0
   todo: |
-    - Rédiger [le Manifeste](???)
+    - Rédiger [le Manifeste](#manifeste)
     - Lancer One Nation (logo, site web, roadmap)
-    - Publier le tout en open source sur [Github](???)
+    - Publier le tout en open source sur [Github](https://github.com/onenationxyz/onenation)
 
 v1-1:
   title: v1.1 (todo)
   todo: |
-    - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](???) 
-    - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](???)
+    - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-pourquoi-nouvelle-nationalite) 
+    - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-porte-paroles)
     - Communiquer, partager, se rencontrer
 
 v2:
   title: Version 2 > Affiner
   todo: |
     - Grand chantier  : Concevoir "Grand Papyrus", le registre inaltérable et décentralisé des avatars One Nation (et plus encore) [en savoir +]
-    - Organiser le(s) premier(s) festival(s) One Nation [en savoir +](???)
+    - Organiser le(s) premier(s) festival(s) One Nation
     - Créer les premiers Oasis One Nation et partager les retours d'expérience
     - Ajuster la roadmap avec les énergies en présence
 
 v3:
   title: Version 3 > Transformer
   todo: |
-    - Grand chantier : Concevoir ou adopter une monnaie alternative basée sur le temps (blockchain) [en savoir +](???)
-    - Grand chantier : Concevoir ou adopter un système de revenu universel [en savoir +](???)
+    - Grand chantier : Concevoir ou adopter une monnaie alternative basée sur le temps (blockchain)
+    - Grand chantier : Concevoir ou adopter un système de revenu universel
     - Des Oasis naissent partout sur Terre !
     - Imaginer, concevoir et proposer des systèmes en libre adoption pour augmenter la résilience du réseau des Oasis One Nation
 

@@ -6,8 +6,8 @@ links:
   faq: "#faq"
   roadmap: "#roadmap"
   contribute: "#contribute"
-  manifest_github: ???
-  manifest_pdf: ???
+  manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
+  manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/fr
 
 home_header:
   forkme: Fork me on Github
@@ -21,7 +21,7 @@ menu:
 
 manifest:
   title: Le Manifeste
-  sign: Signer le manifeste
+  sign: Télécharger le Manifeste
   download: Télécharger le PDF
   github: Voir l'original
   
@@ -41,6 +41,4 @@ roadmap:
     contribute: Guide de contribution
 
 contribute: 
-  title: Comment participer ?
-  text: |
-    À rédiger
+  title: Comment contribuer ?

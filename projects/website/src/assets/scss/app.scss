@@ -375,6 +375,12 @@ $ons-alt-font: "Playfair Display", serif;
     
 }
 
+
+#contribute {
+    padding-top: $global-padding*5;
+    padding-bottom: $global-padding*5;
+}
+
 #footer{
     margin-top: $global-margin*2;
     font-family: $font-family-monospace;

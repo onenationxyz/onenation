@@ -9,7 +9,7 @@
         
         <ul class="dropdown menu align-right" data-dropdown-menu>
           <li class="is-dropdown-submenu-parent">
-            <a><span class="hide-for-small-only">Lang : </span><strong>{{translate "global.lang"}}</strong></a>
+            <a class="hide"><span class="hide-for-small-only">Lang : </span><strong>{{translate "global.lang"}}</strong></a>
             <ul class="menu">
               {{#each global.languages}}
                 <li><a href="/{{this.slug}}">{{this.name}}</a></li>
