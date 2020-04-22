@@ -18,6 +18,6 @@ You can join the first work-group on Telegram at [t.me/onenationxyz](t.me/onenat
 
 One Nation est un mouvement horizontal sans leaders au fonctionnement inspiré des colonies d'insectes. Cela s'appelle la [stigmergie](https://fr.wikipedia.org/wiki/Stigmergie). 
 
-Il n'y a aucune permission a attendre de qui que ce soit pour apporter ta pierre à l'édifice. Sens toi libre de collaborer/modifier/ajouter tes idées tant que cela respecte [la vision](./the_vision.md) de One Nation.
+Il n'y a aucune permission a attendre de qui que ce soit pour apporter ta pierre à l'édifice. Sens toi libre de collaborer/modifier/ajouter tes idées tant que cela respecte [la vision](./the_vision.md) One Nation.
 
 Tu peux rejoindre le premier groupe de travail sur [t.me/onenationxyz](t.me/onenationxyz)

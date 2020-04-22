@@ -171,15 +171,14 @@ $ons-alt-font: "Playfair Display", serif;
 
 #mobile_nav{
     position: fixed;
+    z-index: 999999;
     width: 100%;
     top: rem-calc(-200);
     transition: ease-in-out 0.2s;
     .title-bar{
         background: url(../img/onenation_header_bg.jpg) top center;
-        background-size: 120%;
-        margin: rem-calc(5);
+        background-size: 130%;
         box-shadow: 0 0 rem-calc(10) $medium-gray;
-        border-radius: $global-radius;
     }
     &.ons-sticky{
         top: 0;
@@ -335,6 +334,39 @@ $ons-alt-font: "Playfair Display", serif;
         @include breakpoint(medium){
             font-size: 1.2em;
         }
+        &:focus{
+            color: inherit;
+        }
+        &:hover{
+            color: $ons-blue;
+        }
+    }
+
+    .accordion-content{
+        margin: rem-calc(10 20 10 30);
+        border-left: solid $medium-gray rem-calc(3);
+        text-align: justify;
+        h6{
+            font-weight: $global-weight-black;
+        }
+
+        strong{
+            font-weight: $global-weight-bold;
+            color: $ons-blue;
+        }
+        
+        a{
+            color: inherit;
+            text-decoration: underline $ons-blue;
+            &:hover,&:focus{
+                color: $ons-blue;
+            }
+        }
+        
+        ul{
+            list-style-type: disc;
+            padding: rem-calc(0 0 20 30);
+        }
     }
    
 }
@@ -379,6 +411,9 @@ $ons-alt-font: "Playfair Display", serif;
 #contribute {
     padding-top: $global-padding*5;
     padding-bottom: $global-padding*5;
+    h6{
+        font-weight: $global-weight-black;
+    }
 }
 
 #footer{

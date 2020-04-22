@@ -1,5 +1,17 @@
 lang: en
 
+head:
+  title: One Nation // Global Emancipation
+  meta:
+    og:
+      title: One Nation // Global Emancipation
+      description: |
+        Se plaindre ? Quel ennui...  
+        Manifester ? Trop dangereux !  
+        Voter ? Aucun effet  
+        Combattre ? La flemme !
+        Et si on créait plutôt une Nation !?
+
 links: 
   manifest: "#manifest"
   vision: "#vision"
@@ -21,7 +33,7 @@ menu:
 
 manifest:
   title: Le Manifeste
-  sign: Télécharger le Manifeste
+  sign: Télécharger Manifeste
   download: Télécharger le PDF
   github: Voir l'original
   
@@ -31,7 +43,10 @@ disclaimer:
 faq:
   title: Foire Aux Questions
   
-boring_faq: 
+faq_projects: 
+  title: Projets
+  
+faq_boring: 
   title: Les questions 🥱
 
 roadmap:
