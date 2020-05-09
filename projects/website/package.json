@@ -1,0 +1,55 @@
+{
+  "name": "onenationxyz",
+  "version": "1.0.0",
+  "description": "Global Emancipation",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build --production",
+    "deploy": "gh-pages -d dist -m \"Let's emancipate\""
+  },
+  "author": "Anyone <onenationxyz@protonmail.com>",
+  "license": "",
+  "dependencies": {
+    "foundation-sites": "^6.6.0",
+    "jquery": "^3.2.1",
+    "motion-ui": "^2.0.3",
+    "what-input": "^5.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/register": "^7.0.0",
+    "autoprefixer": "^9.1.5",
+    "babel-loader": "^8.0.4",
+    "browser-sync": "^2.10.0",
+    "gh-pages": "^2.2.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^3.3.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-extname": "^0.2.0",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-terser": "^1.2.0",
+    "js-yaml": "^3.4.6",
+    "panini": "git+https://github.com/foundation/panini.git#feature/v2.0",
+    "rimraf": "^2.4.3",
+    "style-sherpa": "^1.0.0",
+    "uncss": "^0.16.2",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^4.20.2",
+    "webpack-stream": "^5.1.1",
+    "yargs": "^12.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onenationxyz/onenation.git"
+  },
+  "private": true
+}
