@@ -5,12 +5,7 @@ head:
   meta:
     og:
       title: One Nation // Global Emancipation
-      description: |
-        Se plaindre ? Quel ennui...  
-        Manifester ? Trop dangereux !  
-        Voter ? Aucun effet  
-        Combattre ? La flemme !
-        Et si on créait plutôt une Nation !?
+      description: Complains are boring. Protests are painful. Elections ? Fruitless. So... Why don't we start a Nation ?
 
 links: 
   manifest: "#manifest"
@@ -19,41 +14,42 @@ links:
   roadmap: "#roadmap"
   contribute: "#contribute"
   manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
-  manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/fr
+  manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/en
+  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/roadmap.md
 
 home_header:
   forkme: Fork me on Github
 
 menu:
-  manifest: Manifeste
+  manifest: Manifest
   vision: Vision
   faq: FAQ
-  roadmap: Feuille de route
-  contribute: Contribuer
+  roadmap: Roadmap
+  contribute: Contribute
 
 manifest:
-  title: Le Manifeste
-  sign: Télécharger Manifeste
-  download: Télécharger le PDF
-  github: Voir l'original
+  title: Manifest
+  sign: Download Manifest
+  download: Download the PDF
+  github: See original
   
 disclaimer:
-  title: Lisez-moi
+  title: Read me
   
 faq:
-  title: Foire Aux Questions
+  title: Frequently Asked Questions
   
 faq_projects: 
-  title: Projets
+  title: Projects
   
 faq_boring: 
-  title: Les questions 🥱
+  title: The 🥱 questions
 
 roadmap:
-  title: Feuille de route
+  title: Roadmap
   buttons:
-    github: Roadmap sur Github
-    contribute: Guide de contribution
+    github: Roadmap on Github
+    contribute: Contribution guide
 
 contribute: 
-  title: Comment contribuer ?
+  title: How to contribute ?

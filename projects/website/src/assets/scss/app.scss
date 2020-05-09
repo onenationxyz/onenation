@@ -75,10 +75,8 @@
 $ons-alt-font: "Playfair Display", serif;
 
 .submenu{
-    box-shadow: 0 0 rem-calc(10) $medium-gray;
-    border-radius: $global-radius;
     li:hover{
-        font-weight: $global-weight-bold;
+        text-decoration: underline;
     }
 }
 
@@ -169,6 +167,22 @@ $ons-alt-font: "Playfair Display", serif;
     }
 }
 
+.ons-text{
+    a{
+        color: $ons-blue;
+    }
+}
+
+body#language_homepage{
+    .languages_list{
+        font-size: 1.4rem;
+        .language_slug{
+            text-transform: uppercase;
+            font-weight: $global-weight-black;
+        }
+    }
+}
+
 #mobile_nav{
     position: fixed;
     z-index: 999999;
@@ -212,6 +226,15 @@ $ons-alt-font: "Playfair Display", serif;
     .menu{
         & > li > a{
             color: $ons-soft-black;
+        }
+        .language_slug{
+            text-transform: uppercase;
+        }
+        .language_select{
+            img{
+                max-width: rem-calc(16);
+                margin-right: rem-calc(5);
+            }
         }
     }
 }
@@ -277,6 +300,9 @@ $ons-alt-font: "Playfair Display", serif;
         padding: $global-padding/2 $global-padding*1.5;
         margin: $global-margin*2 0 $global-margin*4;
         font-weight: $global-weight-bold;
+    }
+    p a{
+        @extend .ons-link;
     }
 }
 
@@ -352,14 +378,12 @@ $ons-alt-font: "Playfair Display", serif;
 
         strong{
             font-weight: $global-weight-bold;
-            color: $ons-blue;
         }
         
         a{
-            color: inherit;
-            text-decoration: underline $ons-blue;
+            color: $ons-blue;
             &:hover,&:focus{
-                color: $ons-blue;
+                text-decoration: underline;
             }
         }
         

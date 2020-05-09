@@ -1,23 +1,27 @@
-#### Considérant
+TODO: Check english translation of the Manifest (from French). It needs a review from native english speakers before serving as the base for new translations.  
+You can help on Telegram [t.me/onenation_en_translation](https://t.me/onenation_en_translation)
 
-- Que la Terre est un grand organisme vivant.  
-- Qu’une infinité de formes de vie y cohabitent en interdépendance.  
-- Que l’humanité a une influence majeure sur les autres règnes terrestres.  
-- Que chaque être humain est une cellule unique et individualisée de la Terre.  
-- Que la résilience d’un organisme est maintenue lorsque ses cellules sont libres de jouer pleinement leurs rôles au service du Tout et de ses parties.
+#### Whereas
 
-#### Je proclame
+- Earth is a massive living organism.
+- An infinity of life forms coexist interdependently.
+- Humanity holds a major influence over other terrestrial realms.
+- Each human being is a unique and individualized cell of the planet.
+- Organisms' resilience is upheld when cells are free to play their roles for the Whole and Its parts.
 
-- Ma gratitude envers la Vie qui anime toutes choses.  
-- Mon respect profond envers tous les habitants de notre vaisseau terrestre.  
-- La primauté de l'être biologique et conscient que je suis, sur l'entité légale créée après ma naissance.  
-- La légitimité de mon pouvoir créateur tant qu’il exclut toute forme de vol, tromperie, violence morale ou physique.  
-- La responsabilité absolue de mes pensées, paroles et actions engendrées par mon libre-arbitre.
+#### I proclaim
 
-#### Je m'engage à
+- My gratitude towards Life that animates all things.
+- My deep respect for all inhabitants of our earthly spaceship.
+- The primacy of the biologic and conscious being that I am, over the legal entity created after my birth.
+- The legitimacy of my creative power as long as it excludes any form of theft, deception, moral or physical violence.
+- The absolute responsibility of my thoughts, words and actions generated from my free-will.
 
-- Écarter la peur de mon esprit pour que dans l’amour, je puisse prendre soin de moi et de tout ce qui vit.  
-- Me saisir de mon pouvoir d’être humain vivant pour l’employer au service de l’harmonie.   
-- Recourir à la désobéissance joyeuse et pacifique, lorsque les droits fondamentaux du vivant sont en danger.
+#### I undertake
 
-Je reconnais ce pacte qui me lie à moi-même et à la Terre. Je rejoins par le cœur les Êtres émancipés de One Nation par delà les océans et les continents.
+- To push away fear so that, with love, I take care of myself and every form of life.
+- To seize my power of living human being, and use it in the service of harmony.
+- To resort to joyful and pacific disobedience whenever fundamental rights of the living are in danger.
+
+
+I acknowledge this pact made with myself and Earth. I join with my heart the Free Beings of One Nation across all oceans and continents.

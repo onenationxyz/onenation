@@ -1,12 +1,9 @@
 url: https://www.onenation.xyz/
 onenation_version: "1.0"
 github_url: https://github.com/onenationxyz/onenation/
-manifest_download_url: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4
 
 languages:
-  - en: 
+  en: 
     name: English speaking
-    slug: ""
-  - fr:
+  fr:
     name: Version francophone
-    slug: fr

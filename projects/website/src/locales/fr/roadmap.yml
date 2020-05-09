@@ -2,7 +2,7 @@ intro:
   p1: |
     Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation. 
   p2: |
-    La roadmap de référence, plus complète, se trouve sur la plateforme collaborative Github. Tout est open source, alors si tu as des envies et des idées. N'hésite pas !
+    La roadmap de référence, plus complète, se trouve sur la plateforme collaborative Github. Tout est open-source, alors si tu as des envies et des idées. N'hésite pas !
   version: Version actuelle
 
 v1:
@@ -13,7 +13,7 @@ v1-0:
   todo: |
     - Rédiger [le Manifeste](#manifeste)
     - Lancer One Nation (logo, site web, roadmap)
-    - Publier le tout en open source sur [Github](https://github.com/onenationxyz/onenation)
+    - Publier le tout en open-source sur [Github](https://github.com/onenationxyz/onenation)
 
 v1-1:
   title: v1.1 (todo)

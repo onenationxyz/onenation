@@ -1,16 +1,11 @@
-lang: en
+lang: fr
 
 head:
   title: One Nation // Global Emancipation
   meta:
     og:
       title: One Nation // Global Emancipation
-      description: |
-        Se plaindre ? Quel ennui...  
-        Manifester ? Trop dangereux !  
-        Voter ? Aucun effet  
-        Combattre ? La flemme !
-        Et si on créait plutôt une Nation !?
+      description: Se plaindre ? Quel ennui... Manifester ? Trop dangereux... Voter ? Aucun effet... Combattre ? La flemme ! Et si on créait plutôt une Nation !?
 
 links: 
   manifest: "#manifest"
@@ -20,6 +15,7 @@ links:
   contribute: "#contribute"
   manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
   manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/fr
+  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/roadmap.md
 
 home_header:
   forkme: Fork me on Github

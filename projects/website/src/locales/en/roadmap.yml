@@ -1,51 +1,51 @@
 intro:
   p1: |
-    Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation. 
+    This roadmap is a work in progress todo list about future developments of One Nation.
   p2: |
-    La roadmap de référence, plus complète, se trouve sur la plateforme collaborative Github. Tout est open source, alors si tu as des envies et des idées. N'hésite pas !
-  version: Version actuelle
+    The most exhaustive roadmap is hosted on [Github](https://github.com/onenationxyz/onenation/blob/master/roadmap.md) (collaborative platform). Everything is open-source so feel free to bring your ideas.
+  version: Actual version
 
 v1:
-  title: Version 1 > Initier
+  title: Version 1 > Initiate
 
 v1-0:
   title: v1.0
   todo: |
-    - Rédiger [le Manifeste](#manifeste)
-    - Lancer One Nation (logo, site web, roadmap)
-    - Publier le tout en open source sur [Github](https://github.com/onenationxyz/onenation)
+    - Write [the Manifest](#manifest)
+    - Kickstart One Nation (logo, website, roadmap)
+    - Publish everything on [Github](https://github.com/onenationxyz/onenation) (open-source)
 
 v1-1:
   title: v1.1 (todo)
   todo: |
-    - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-projet-avatars) 
-    - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-projet-wouino)
-    - Communiquer, partager, se rencontrer
+    - Invite everybody to create his/her own Avatar (ID card) on a physical support [Read more](#faq-project-avatars)
+    - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
+    - Spread the news and connect together
 
 v2:
-  title: Version 2 > Affiner
+  title: Version 2 > Refine
   todo: |
-    - Grand chantier  : Concevoir "Grand Papyrus", le registre inaltérable et décentralisé des avatars One Nation (et plus encore)
-    - Organiser le(s) premier(s) festival(s) One Nation
-    - Créer les premiers Oasis One Nation et partager les retours d'expérience
-    - Ajuster la roadmap avec les énergies en présence
+    - Big project  : Design & code "Grand Papyrus", the decentralized unalterable of all One Nation Avatars (and much more)
+    - Organize the first(s) One Nation Festival(s)
+    - Create the firsts One Nation Oasis and share experience feedbacks
+    - Adjust the roadmap with energies in place
 
 v3:
-  title: Version 3 > Transformer
+  title: Version 3 > Transform
   todo: |
-    - Grand chantier : Concevoir ou adopter une monnaie alternative basée sur le temps (blockchain)
-    - Grand chantier : Concevoir ou adopter un système de revenu universel
-    - Des Oasis naissent partout sur Terre !
-    - Imaginer, concevoir et proposer des systèmes en libre adoption pour augmenter la résilience du réseau des Oasis One Nation
+    - Big project : Design or adopt an alternative currency based on time (on blockchain)
+    - Big project : Design or adopt an open Universal Income
+    - Oasis flourish everywhere on Earth!
+    - Imagin, Design and release free systems that enhance resilience of the Oasis Network
 
 v4:
   title: Version 4 > Récolter
   todo: |
-    - De plus en plus de personnes émancipées
-    - De plus en plus d'Oasis
-    - De plus en plus de joie, beauté, confiance, bon sens, respect et de créativité sur Terre ! 
+    - More and more emancipated beings
+    - More and more Oasis
+    - More and more joy, beauty, trust, common sense, respect and creativity one Earth!
     
 vfinal:
-  title: Version finale > Dissoudre
+  title: Final version > Dissolve
   text: |
-    - Au stade ultime, lorsque l'harmonie et la confiance seront la norme, lorsque nous aurons compris que nous sommes tous UN et uniques, alors nous n'aurons plus besoin de One Nation.
+    - Ultimatly, when harmony and trust are the main rules, when humanity finaly understands that we are all ONE and unique, then we need no more One Nation...

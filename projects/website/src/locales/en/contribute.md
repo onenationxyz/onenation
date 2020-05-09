@@ -1,21 +1,21 @@
-One Nation embrasse pleinement le principe de **stigmergie** qui invite chacun à agir spontanément sans avoir besoin de la validation de qui que ce soit. [En savoir +](#faq-stigmergie)
+One Nation fully embraces the principles of **stigmergy** inviting anyone to act spontaneously free from the need of prior validation from others. [Read more](#faq-stigmergy)
 
-###### Signer le manifeste
+###### Sign the Manifest
 
-Si tu as besoin d'aide pour commencer, voici quand même quelques suggestions : 
+If you need some help to start, here are some suggestions:
 
-1. Imprime/réécrit [le Manifeste](#manifest)
-2. Partage-le avec tes proches
-3. Incarne ce que tu viens de signer 🥳 
+1. Print/handwrite [the Manifest](#manifest)
+2. Share it with the people around you
+3. Embody what you have just signed 🥳 
 
-###### Se rencontrer
+###### Meet
 
-Ici, pas de chef ou d'organisation centrale. Tu es un nouveau point de départ pour One Nation. Retrouve ou découvre ceux qui ont envie d'agir autour de toi et c'est parti ! 
+Here you won't find any central organization. You are a now a new hub in the One Nation Network. Find the Ones ready to act around you, and let's go!
 
-N'hésite pas à faire un tour sur Telegram, il y a du monde avec qui faire connaissance. [En savoir plus](#faq-contribuer)
+Have a look on Telegram, get in touch with the people around there  [Read more](#faq-contribute)
 
-###### À propos de onenation.xyz
+###### About onenation.xyz
 
-Ce site est hébergé en open source sur [Github](https://github.com/onenationxyz/onenation). Tout est modifiable, sauf le Manifeste. Tu peux contribuer en ajoutant, modifiant, traduisant, ... ce site.
+This website is hosted on [Github](https://github.com/onenationxyz/onenation). Everything is Open Source and editable, excluding the Manifest. You may give a hand by adding, updating, translating content of the website.
 
-Si jamais Github n'est pas ta tasse de thé, n'hésite pas à entrer en contact sur [Telegram](#faq-contribuer) ou avec onenationxyz@protonmail.com pour participer.
+If you don't get anything about Github, fell free to join [Telegram](#faq-contribuer) or write at onenationxyz@protonmail.com.
