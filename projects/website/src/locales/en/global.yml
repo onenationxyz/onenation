@@ -1,0 +1,55 @@
+lang: en
+
+head:
+  title: One Nation // Global Emancipation
+  meta:
+    og:
+      title: One Nation // Global Emancipation
+      description: Complains are boring. Protests are painful. Elections ? Fruitless. So... Why don't we start a Nation ?
+
+links: 
+  manifest: "#manifest"
+  vision: "#vision"
+  faq: "#faq"
+  roadmap: "#roadmap"
+  contribute: "#contribute"
+  manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
+  manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/en
+  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/roadmap.md
+
+home_header:
+  forkme: Fork me on Github
+
+menu:
+  manifest: Manifest
+  vision: Vision
+  faq: FAQ
+  roadmap: Roadmap
+  contribute: Contribute
+
+manifest:
+  title: Manifest
+  sign: Download Manifest
+  download: Download the PDF
+  github: See original
+  
+disclaimer:
+  title: Read me
+  
+faq:
+  title: Frequently Asked Questions
+  
+faq_projects: 
+  title: Projects
+  
+faq_boring: 
+  title: The 🥱 questions
+
+roadmap:
+  title: Roadmap
+  buttons:
+    github: Roadmap on Github
+    contribute: Contribution guide
+
+contribute: 
+  title: How to contribute ?

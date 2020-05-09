@@ -1,0 +1,23 @@
+<section id="manifest" class="grid-container" data-magellan-target="manifest">
+  <div class="grid-x align-right grid-margin-y">
+
+    <div class="cell ons-sheet">
+      <h2 class="h1">{{translate "global.manifest.title"}}</h2>
+
+      {{#markdown}}{{read (replace "src/locales/[lang]/manifest.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+
+      <div class=" grid-x align-center">
+        <div class="cell shrink">
+          <a href="{{translate "global.links.manifest_pdf"}}" class="button large hollow secondary" target="_blank">{{translate "global.manifest.sign"}}</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="cell shrink text-right">
+      <a href="{{translate "global.links.manifest_pdf"}}" class="ons-link" target="_blank">{{translate "global.manifest.download"}}</a>
+      <br class="hide-for-large">&nbsp;
+      <a href="{{translate "global.links.manifest_github"}}" class="ons-link" target="_blank">{{translate "global.manifest.github"}}</a>
+    </div>
+
+  </div>
+</section>

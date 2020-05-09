@@ -1,0 +1,9 @@
+url: https://www.onenation.xyz/
+onenation_version: "1.0"
+github_url: https://github.com/onenationxyz/onenation/
+
+languages:
+  en: 
+    name: English speaking
+  fr:
+    name: Version francophone
