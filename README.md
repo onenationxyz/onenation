@@ -1,10 +1,10 @@
 <p align="center"><img src="https://onenation.xyz/assets/img/onenation_logo_colorful.png" alt="One Nation // Global Emancipation" width="55%"></p>
 
-[https://onenation.xyz](https://onenation.xyz)
+<a href="https://github.com/onenationxyz/onenation/tree/master/manifest" align="right"><img src="https://raw.githubusercontent.com/onenationxyz/onenation/master/medias/print/manifest_A4/en/en_manifest_onenation.jpg" alt="One Nation // Global Emancipation" width="50%"></a>
 
 **Table of content**
 
-- [The Manifest](#the-manifest)
+- [The Manifest](./manifest)
 - [The vision](#the-vision)
 - [Disclaimer](#disclaimer)
 - [The Roadmap](#roadmap)
@@ -12,15 +12,15 @@
 - [Downloads](#downloads)
 - [Contribute](#contribute)
 
-## The Manifest
+## Website
 
-<p align="center"><a href="https://github.com/onenationxyz/onenation/tree/master/manifest"><img src="https://raw.githubusercontent.com/onenationxyz/onenation/master/medias/print/manifest_A4/en/en_manifest_onenation.jpg" alt="One Nation // Global Emancipation" width="55%"></a></p>
+Visit the website on : [https://onenation.xyz](https://onenation.xyz)
 
 ## The vision
 
 ### Heart of One Nation
 
-<p align="right"><img src="https://onenation.xyz/assets/img/onenation_heart.png" alt="Heart of One Nation" width="55px"></p>
+<img src="https://onenation.xyz/assets/img/onenation_heart.png" alt="Heart of One Nation" width="55px" align="right">
 
 Governments fail to take care of Humans and Earth.  
 We don’t trust them.  
@@ -36,7 +36,7 @@ Elections ? Fruitless.
     
 ### Spirit of One Nation
 
-<p align="right"><img src="https://onenation.xyz/assets/img/onenation_mind.png" alt="Spirit of One Nation" width="55px"></p>
+<img src="https://onenation.xyz/assets/img/onenation_mind.png" alt="Spirit of One Nation" width="55px" align="right">
 
 One Nation is a **planetary wave** peacefully emancipating human beings from non-legitimate authorities.
 
@@ -50,7 +50,7 @@ So that mutual trust makes us **act spontaneously in stigmergy**.
     
 ### Body of One Nation
 
-<p align="right"><img src="https://onenation.xyz/assets/img/onenation_body.png" alt="Body of One Nation" width="55px"></p>
+<img src="https://onenation.xyz/assets/img/onenation_body.png" alt="Body of One Nation" width="55px" align="right">
 
 First, One Nation vibrates in **each one of us**, every time a human being sign the Manifest with the heart and the soul.
     
