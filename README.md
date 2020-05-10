@@ -1,10 +1,11 @@
 <p align="center"><img src="https://onenation.xyz/assets/img/onenation_logo_colorful.png" alt="One Nation // Global Emancipation" width="55%"></p>
 
-<a href="https://github.com/onenationxyz/onenation/tree/master/manifest" align="right"><img src="https://raw.githubusercontent.com/onenationxyz/onenation/master/medias/print/manifest_A4/en/en_manifest_onenation.jpg" alt="One Nation // Global Emancipation" width="50%"></a>
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/master/medias/print/manifest_A4/en/en_manifest_onenation.jpg" alt="One Nation // Global Emancipation" width="50%" align="right">
 
 **Table of content**
 
-- [The Manifest](./manifest)
+- [Website](#website)
+- [The Manifest](#manifest)
 - [The vision](#the-vision)
 - [Disclaimer](#disclaimer)
 - [The Roadmap](#roadmap)
@@ -15,6 +16,10 @@
 ## Website
 
 Visit the website on : [https://onenation.xyz](https://onenation.xyz)
+
+## The Manifest
+
+Read the Manifest [here](./manifest)
 
 ## The vision
 
