@@ -1,25 +1,10 @@
-<p align="center"><img src="https://onenation.xyz/assets/img/onenation_logo_colorful.png" alt="One Nation // Global Emancipation" width="55%"></p>
+![Manifest One Nation](./medias/print/manifest_A4/en/en_manifest_onenation.jpg)
 
-<img src="https://raw.githubusercontent.com/onenationxyz/onenation/master/medias/print/manifest_A4/en/en_manifest_onenation.jpg" alt="One Nation // Global Emancipation" width="50%" align="right">
-
-**Table of content**
-
-- [Website](#website)
-- [The Manifest](#manifest)
-- [The vision](#the-vision)
-- [Disclaimer](#disclaimer)
-- [The Roadmap](#roadmap)
-- [FAQ](#faq)
-- [Downloads](#downloads)
-- [Contribute](#contribute)
+[Read the Manifest](./manifest) // [Download the Manifest](./medias/print/manifest_A4)
 
 ## Website
 
 Visit the website on : [https://onenation.xyz](https://onenation.xyz)
-
-## The Manifest
-
-Read the Manifest [here](./manifest)
 
 ## The vision
 
