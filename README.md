@@ -1,14 +1,9 @@
 ![Manifest One Nation](./medias/print/manifest_A4/en/en_manifest_onenation.jpg)
 
-[Read the Manifest](./manifest) // [Download the Manifest](./medias/print/manifest_A4)
+[Read ](./manifest) the Manifest // [Download](./medias/print/manifest_A4) the Manifest  
+Visit [https://onenation.xyz](https://onenation.xyz)
 
-## Website
-
-Visit the website on : [https://onenation.xyz](https://onenation.xyz)
-
-## The vision
-
-### Heart of One Nation
+## Heart of One Nation
 
 <img src="https://onenation.xyz/assets/img/onenation_heart.png" alt="Heart of One Nation" width="55px" align="right">
 
@@ -24,7 +19,7 @@ Elections ? Fruitless.
 
 **So... Why don't we start a nation?**
     
-### Spirit of One Nation
+## Spirit of One Nation
 
 <img src="https://onenation.xyz/assets/img/onenation_mind.png" alt="Spirit of One Nation" width="55px" align="right">
 
@@ -38,7 +33,7 @@ The Manifest warrants our **common quest for harmony**.
 This text is the hyphen between all our differences.  
 So that mutual trust makes us **act spontaneously in stigmergy**.
     
-### Body of One Nation
+## Body of One Nation
 
 <img src="https://onenation.xyz/assets/img/onenation_body.png" alt="Body of One Nation" width="55px" align="right">
 

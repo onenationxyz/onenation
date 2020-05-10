@@ -6,7 +6,7 @@ Manifest // ONE NATION
 - EN // [Read the Manifest](./en_manifest.md)
 - FR // [Lire le Manifeste](./fr_manifeste.md)
 
-You can download printable versions here : [Print Downloads](./medias/print/)
+You can download printable versions here : [Print Downloads](../medias/print/manifest_A4)
 
 ### Why a Manifest?
 
