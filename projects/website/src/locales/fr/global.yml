@@ -15,7 +15,7 @@ links:
   contribute: "#contribute"
   manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
   manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/fr
-  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/roadmap.md
+  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/ROADMAP.md
 
 home_header:
   forkme: Fork me on Github
