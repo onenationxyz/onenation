@@ -45,7 +45,7 @@ Every oasis, fixed or movable, is free to experiment its own organisation.
     
 One Nation connects **open-source projects** that **build up alternatives to usual instruments of power** such as : identity, money, education, food, medias, ...
 
-## DISCLAIMER
+## Disclaimer
 
 **By nation we mean :** "Vast group of human beings, conscious about their unity and claiming the desire to live together" [Read more](https://onenation.xyz/en/faq-why-one-nation)
 
@@ -59,7 +59,7 @@ One Nation connects **open-source projects** that **build up alternatives to usu
 
 ## Roadmap
 
-Browse [the roadmap](ROADMAP.md)
+Check [the roadmap](ROADMAP.md)
 
 ## FAQ
 
@@ -67,7 +67,7 @@ Visit [onenation.xyz/en/#faq](https://onenation.xyz/en/#faq)
 
 ## Downloads
 
-See [medias folder](medias)
+Browse the [medias folder](medias)
 
 ## Contribute
 
