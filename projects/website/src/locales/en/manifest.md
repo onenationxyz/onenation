@@ -1,6 +1,3 @@
-TODO: Check english translation of the Manifest (from French). It needs a review from native english speakers before serving as the base for new translations.  
-You can help on Telegram [t.me/onenation_en_translation](https://t.me/onenation_en_translation)
-
 #### Whereas
 
 - Earth is a massive living organism.
@@ -13,15 +10,14 @@ You can help on Telegram [t.me/onenation_en_translation](https://t.me/onenation_
 
 - My gratitude towards Life that animates all things.
 - My deep respect for all inhabitants of our earthly spaceship.
-- The primacy of the biologic and conscious being that I am, over the legal entity created after my birth.
+- The primacy of the biological and conscious being that I am, over the legal entity created after my birth.
 - The legitimacy of my creative power as long as it excludes any form of theft, deception, moral or physical violence.
-- The absolute responsibility of my thoughts, words and actions generated from my free-will.
+- The absolute responsibility for my thoughts, words and actions of my own free-will.
 
 #### I undertake
 
-- To push away fear so that, with love, I take care of myself and every form of life.
-- To seize my power of living human being, and use it in the service of harmony.
-- To resort to joyful and pacific disobedience whenever fundamental rights of the living are in danger.
+- To remove fear so that, with love, I take care of myself and every form of life.
+- To seize my power as a living Human Being and use it to create harmony.
+- To resort in joyful and pacific disobedience whenever fundamental rights of Life are in danger.
 
-
-I acknowledge this pact made with myself and Earth. I join with my heart the Free Beings of One Nation across all oceans and continents.
+I acknowledge this pact made between myself and the Earth. Wholeheartedly, I join the Free Beings of One Nation across all oceans and continents.
