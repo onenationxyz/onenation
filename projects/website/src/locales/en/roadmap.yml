@@ -1,8 +1,8 @@
 intro:
   p1: |
-    This roadmap is a work in progress todo list about future developments of One Nation.
+    This roadmap is a note of intent, a to do list about the future developments of One Nation.
   p2: |
-    The most exhaustive roadmap is hosted on [Github](https://github.com/onenationxyz/onenation/blob/master/roadmap.md) (collaborative platform). Everything is open-source so feel free to bring your ideas.
+    The more complete, reference roadmap is hosted on [Github's collaborative platform](https://github.com/onenationxyz/onenation/blob/master/roadmap.md). Everything is open-source so feel free to bring your ideas.
   version: Actual version
 
 v1:
@@ -20,15 +20,15 @@ v1-1:
   todo: |
     - Invite everybody to create his/her own Avatar (ID card) on a physical support [Read more](#faq-project-avatars)
     - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
-    - Spread the news and connect together
+    - Communicate, share and get together.
 
 v2:
   title: Version 2 > Refine
   todo: |
-    - Big project  : Design & code "Grand Papyrus", the decentralized unalterable of all One Nation Avatars (and much more)
+    - Big project  : Design & develop "Grand Papyrus", the decentralized and unalterable registry of all One Nation Avatars (and much more)
     - Organize the first(s) One Nation Festival(s)
     - Create the firsts One Nation Oasis and share experience feedbacks
-    - Adjust the roadmap with energies in place
+    - Adjust the roadmap with energies present
 
 v3:
   title: Version 3 > Transform
@@ -36,16 +36,16 @@ v3:
     - Big project : Design or adopt an alternative currency based on time (on blockchain)
     - Big project : Design or adopt an open Universal Income
     - Oasis flourish everywhere on Earth!
-    - Imagin, Design and release free systems that enhance resilience of the Oasis Network
+    - Imagin, design, develop and release open source solutions to enhance the resilience of the One Nation Oasis Network
 
 v4:
   title: Version 4 > Récolter
   todo: |
-    - More and more emancipated beings
-    - More and more Oasis
-    - More and more joy, beauty, trust, common sense, respect and creativity one Earth!
+    - More emancipated beings
+    - More Oasis
+    - More joy, beauty, trust, common sense, respect and creativity on Earth!
     
 vfinal:
   title: Final version > Dissolve
   text: |
-    - Ultimatly, when harmony and trust are the main rules, when humanity finaly understands that we are all ONE and unique, then we need no more One Nation...
+    - Ultimatly, when harmony and trust are the norms, when humanity finally understands that we are all ONE and unique, then we will no longer need One Nation...

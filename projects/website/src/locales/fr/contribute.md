@@ -4,7 +4,7 @@ One Nation embrasse pleinement le principe de **stigmergie** qui invite chacun �
 
 Si tu as besoin d'aide pour commencer, voici quand même quelques suggestions : 
 
-1. Imprime/réécrit [le Manifeste](#manifest)
+1. Imprime/réécris [le Manifeste](#manifest)
 2. Partage-le avec tes proches
 3. Incarne ce que tu viens de signer 🥳 
 
