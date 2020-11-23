@@ -16,7 +16,7 @@ Step 1: Clone git repository
     
 Step 2: Go to the website directory 
 
-    cd ./projects/website/ 
+    cd ./website/ 
 
 Step 3: Run
 

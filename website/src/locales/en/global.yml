@@ -13,8 +13,9 @@ links:
   faq: "#faq"
   roadmap: "#roadmap"
   contribute: "#contribute"
-  manifest_github: https://github.com/onenationxyz/onenation/tree/master/manifest
-  manifest_pdf: https://github.com/onenationxyz/onenation/tree/master/medias/print/manifest_A4/en
+  manifest_filename: "en_manifest"
+  manifest_pdf: /assets/art/manifest_A4/en/en_manifest_onenation.pdf
+  manifest_jpg: /assets/art/manifest_A4/en/en_manifest_onenation.jpg
   roadmap_github: https://github.com/onenationxyz/onenation/blob/master/ROADMAP.md
 
 home_header:
@@ -29,9 +30,9 @@ menu:
 
 manifest:
   title: Manifest
-  sign: Download Manifest
-  download: Download the PDF
-  github: See original
+  sign: Sign the Manifest
+  pdf: Download .pdf
+  jpg: Download .jpg
   
 disclaimer:
   title: Read me

@@ -1,32 +1,45 @@
 Logo // ONE NATION
 ==================
 
-### Design Kit
+Download all logos (plain, transparent, vectors) as a .zip file here : [logo_onenation.zip](./logo_onenation.zip)
 
-Download design kit as a .zip file : [logo_onenation.zip](./logo_onenation.zip)
+### Plain Logo (.jpg)
 
-### JPEG
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/logo/full_black_onenation.jpg" alt="Body of One Nation" width="111px" align="right">
 
-![Logo One Nation Full](full_black_onenation.jpg)
-![Logo One Nation Full](full_white_onenation.jpg)
+#### Full version
 
-![Logo One Nation](black_onenation.jpg)
-![Logo One Nation](white_onenation.jpg)
+- [Download full_black_onenation.jpg](./full_black_onenation.jpg)
+- [Download full_white_onenation.jpg](./full_white_onenation.jpg)
 
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/logo/black_onenation.jpg" alt="Body of One Nation" width="88px" align="right">
 
-### PNG (transparent background)
+#### Short version
 
-![Logo One Nation Full transparent](full_black_transparent_onenation.png)
-![Logo One Nation Full transparent](full_white_transparent_onenation.png)
+- [Download black_onenation.jpg](./black_onenation.jpg)
+- [Download white_onenation.jpg](./white_onenation.jpg)
 
-![Logo One Nation transparent](black_transparent_onenation.png)
-![Logo One Nation transparent](white_transparent_onenation.png)
+### Transparent (.png)
 
-### EPS (vector)
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/logo/full_black_transparent_onenation.png" alt="Body of One Nation" width="111px" align="right">
 
-![Logo One Nation Full vector](full_black_onenation.eps)
-![Logo One Nation vector](black_onenation.eps)
+#### Full version
 
-### Original
+- [Download full_black_transparent_onenation.png](./full_black_transparent_onenation.png)
+- [Download full_white_transparent_onenation.png](./full_white_transparent_onenation.png)
 
-The original working document is made with Affinity Designer [logo_onenation.afdesign](./logo_onenation.afdesign)
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/logo/black_transparent_onenation.png" alt="Body of One Nation" width="88px" align="right">
+
+#### Short version
+
+- [Download black_transparent_onenation.png](./black_transparent_onenation.png)
+- [Download white_transparent_onenation.png](./white_transparent_onenation.png)
+
+### Vectorial Logo (.eps)
+
+- [Download full_black_onenation.eps](./full_black_onenation.eps)
+- [Download black_onenation.eps](./black_onenation.eps)
+
+### Original (.afdesign)
+
+The original working document is made with Affinity Designer (not an open source software) [logo_onenation.afdesign](./logo_onenation.afdesign)

@@ -173,6 +173,12 @@ $ons-alt-font: "Playfair Display", serif;
     }
 }
 
+.ons-h2toh1{
+    h2{
+        @extend h1;
+    }
+}
+
 body#language_homepage{
     .languages_list{
         font-size: 1.4rem;
@@ -303,6 +309,10 @@ body#language_homepage{
     }
     p a{
         @extend .ons-link;
+    }
+    p > strong > em{
+        display: block;
+        text-align: right;
     }
 }
 
