@@ -1,4 +1,4 @@
-<img src="hhttps://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/website/src/assets/art/manifest_A4/en/en_manifest_onenation.jpg" alt="Heart of One Nation" width="50%" align="center">
+<img src="https://raw.githubusercontent.com/onenationxyz/onenation/blob/dev/website/src/assets/art/manifest_A4/en/en_manifest_onenation.jpg" alt="Heart of One Nation" width="50%" align="center">
 
 ----
 
