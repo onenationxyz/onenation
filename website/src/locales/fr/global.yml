@@ -1,0 +1,56 @@
+lang: fr
+
+head:
+  title: One Nation // Global Emancipation
+  meta:
+    og:
+      title: One Nation // Global Emancipation
+      description: One Nation est une vague d'émancipation planétaire qui invite à se ressaisir sereinement de son pouvoir personnel et refuser toute autorité illégitime
+
+links: 
+  manifest: "#manifest"
+  vision: "#vision"
+  faq: "#faq"
+  roadmap: "#roadmap"
+  contribute: "#contribute"
+  manifest_filename: "fr_manifeste"
+  manifest_pdf: /assets/art/manifest_A4/fr/fr_manifeste_onenation.pdf
+  manifest_jpg: /assets/art/manifest_A4/fr/fr_manifeste_onenation.jpg
+  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/ROADMAP.md
+
+home_header:
+  forkme: Fork me on Github
+
+menu:
+  manifest: Manifeste
+  vision: Vision
+  faq: FAQ
+  roadmap: Feuille de route
+  contribute: Contribuer
+
+manifest:
+  title: Le Manifeste
+  sign: Signer le Manifeste
+  pdf: Version .pdf
+  jpg: Version .jpg
+  
+disclaimer:
+  title: Lisez-moi
+  
+faq:
+  title: Foire Aux Questions
+  
+faq_projects: 
+  title: Projets
+  
+faq_boring: 
+  title: Les questions 🥱
+
+roadmap:
+  title: Feuille de route
+  buttons:
+    github: Roadmap sur Github
+    contribute: Guide de contribution
+
+contribute: 
+  title: Comment contribuer ?

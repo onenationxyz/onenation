@@ -1,0 +1,20 @@
+<section id="manifest" class="grid-container" data-magellan-target="manifest">
+  <div class="grid-x align-right grid-margin-y">
+
+    <div class="cell ons-sheet ons-h2toh1">
+      {{#markdown}}{{read (replace "../manifest/[manifest_filename].md" "[manifest_filename]" (translate "global.links.manifest_filename"))}}{{/markdown}}
+      <div class=" grid-x align-center">
+      <div class="cell shrink">
+        <a href="{{translate "global.links.manifest_pdf"}}" class="button large hollow secondary" target="_blank">{{translate "global.manifest.sign"}}</a>
+      </div>
+    </div>
+    </div>
+
+    <div class="cell shrink text-right">
+      <a href="{{translate "global.links.manifest_pdf"}}" class="ons-link" target="_blank">{{translate "global.manifest.pdf"}}</a>
+      <br class="hide-for-large">&nbsp;
+      <a href="{{translate "global.links.manifest_jpg"}}" class="ons-link" target="_blank">{{translate "global.manifest.jpg"}}</a>
+    </div>
+
+  </div>
+</section>
