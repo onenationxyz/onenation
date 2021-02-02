@@ -1,17 +1,20 @@
-<li><a href="{{translate "global.links.manifest"}}">{{translate "global.menu.manifest"}}</a></li>
+{{#if (translate "global.display.vision")}}
+  <li><a href="#{{translate "global.manifest.menu.link"}}">{{translate "global.manifest.menu.text"}}</a></li>
+  <li class="ons-separator"></li>
+  <li><a href="#{{translate "global.vision.menu.link"}}">{{translate "global.vision.menu.text"}}</a></li>
 
-<li class="ons-separator"></li>
+  {{#if (translate "global.display.faq")}}
+    <li class="ons-separator"></li>
+    <li><a href="#{{translate "global.faq.menu.link"}}">{{translate "global.faq.menu.text"}}</a></li>
+  {{/if}}
 
-<li><a href="{{translate "global.links.vision"}}">{{translate "global.menu.vision"}}</a></li>
+  {{#if (translate "global.display.roadmap")}}
+    <li class="ons-separator"></li>
+    <li><a href="#{{translate "global.roadmap.menu.link"}}">{{translate "global.roadmap.menu.text"}}</a></li>
+  {{/if}}
 
-<li class="ons-separator"></li>
-
-<li><a href="{{translate "global.links.faq"}}">{{translate "global.menu.faq"}}</a></li>
-
-<li class="ons-separator"></li>
-
-<li><a href="{{translate "global.links.roadmap_github"}}">{{translate "global.menu.roadmap"}}</a></li>
-
-<li class="ons-separator"></li>
-
-<li><a href="{{translate "global.links.contribute"}}">{{translate "global.menu.contribute"}}</a></li>
+  {{#if (translate "global.display.contribute")}}
+    <li class="ons-separator"></li>
+    <li><a href="#{{translate "global.contribute.menu.link"}}">{{translate "global.contribute.menu.text"}}</a></li>
+  {{/if}}
+{{/if}}

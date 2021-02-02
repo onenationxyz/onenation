@@ -1,56 +1,368 @@
 lang: en
 
+display:
+  manifest: true
+  vision: true
+  disclaimer: true
+  faq: true
+  roadmap: true
+  contribute: true
+
 head:
-  title: One Nation // Global Emancipation
-  meta:
-    og:
-      title: One Nation // Global Emancipation
-      description: One Nation is a planetary emancipation wave. In peace, every one regain the power to choose for themself and refuse interference from non-legitimate authorities
+  title: One Nation 🌍 Global Emancipation
+  description: One Nation is a planetary emancipation wave. In peace, we regain the power to choose for ourselves and refuse interference from non-legitimate authorities
 
-links: 
-  manifest: "#manifest"
-  vision: "#vision"
-  faq: "#faq"
-  roadmap: "#roadmap"
-  contribute: "#contribute"
-  manifest_filename: "en_manifest"
-  manifest_pdf: /assets/art/manifest_A4/en/en_manifest_onenation.pdf
-  manifest_jpg: /assets/art/manifest_A4/en/en_manifest_onenation.jpg
-  roadmap_github: https://github.com/onenationxyz/onenation/blob/master/ROADMAP.md
 
-home_header:
-  forkme: Fork me on Github
-
-menu:
-  manifest: Manifest
-  vision: Vision
-  faq: FAQ
-  roadmap: Roadmap
-  contribute: Contribute
+##############
+## MANIFEST ##
+##############
 
 manifest:
-  title: Manifest
-  sign: Sign the Manifest
-  pdf: Download .pdf
-  jpg: Download .jpg
+  menu:
+    text: Manifest
+    link: manifest
   
+  button:
+    sign: Print/Sign the Manifest
+
+  form:
+    name:
+      name: What's your name ?
+      label: The real one that resonnates with your heart
+    date:
+      name: Date of signature ?
+      label: Calendar of your choice
+    color: Pick a color
+    reset: reset
+    print: Print the Manifest
+    help: help
+  
+  filename: en_manifest
+
+  indications:
+    title: Help
+    notice: You should better use a computer to print the Manifest
+    content: |
+      **IMPORTANT**
+      For best results, enable "print backgrounds" option while printing / saving pdf
+      
+      **PRINT**
+      Click the "print" button or use File > Print in order to print the Manifest
+      
+      **SAVE AS PDF**
+      All major browsers allows you to save as PDF instead of printing.
+      
+      **BLANK MANIFEST**
+      In order to print a blank Manifest, leave all the fields empty (or use reset button).
+      
+      **PRIVACY**
+      No data is sent or stored to a server. Everything happen localy on your device.
+      
+      **TRANSLATION**
+      The french-speaking version is considered as the original. The english speaking version needs a review from native english-speaking people before being the base for new translations.
+
+
+
+
+############
+## VISION ##
+############
+
+vision:
+  menu:
+    text: Vision
+    link: vision
+  
+  content:
+    heart:
+      title: |
+        The **Heart** of One Nation
+      text1: |
+        Governments fail in their mission to take care of Humans and Earth.
+        We no longer trust them.
+        They have lost our respect. 
+      text2: |
+        So what can we do?
+      text3: |
+        Complaints are boring...
+        Protests? Too dangerous.
+        Elections? Fruitless.
+        Fighting? Can't be bothered.
+      text4: |
+        **Whaf if we created a nation instead?**
+    
+    mind:
+      title: |
+        The **Spirit** of One Nation
+      text: |
+        One Nation is a **planetary emancipation wave**. In peace, each one regains the power to choose for oneself and refuse interference from non-legitimate authorities.
+        
+        Where anger and fear give way to **creativity** and **courage**, there is no need for new rulers, nor for new laws and institutions.
+        
+        The Manifest affirms our **common quest for harmony**.
+        This text is the link between all our differences.
+        So that mutual trust allows us to **act spontaneously in stigmergy**.
+    
+    body:
+      title: |
+        The **Body** of One Nation
+      text: |
+        One Nation vibrates in **each one of us** every time a human being signs the Manifest in good faith with its heart and the soul.
+        
+        Together we form a **decentralised network** of Human Beings and Oases embracing the values of the Manifest
+        
+        Every oasis, fixed or movable, is free to experiment its own organisation.
+        
+        One Nation connects **open-source projects** that **build up alternatives to usual instruments of power** such as : identity, money, education, food, medias, ...
+
+
+################
+## DISCLAIMER ##
+################
+
 disclaimer:
+  menu:
+    text: Read me
+    link: readme
+
   title: Read me
-  
+  content: |
+    **By nation we mean :** "A vast group of Human Beings aware of its unity and its common wish to live together"
+    
+    **One Nation is profoundly non-violent.** [Read more](#faq-non-violence)
+    
+    **One Nation is not, and will never be** a country, a state, a political party, an institution, an association, an NGO, a lobby, a company, a cult or the New World Order. [Read more](#faq-what-is-one-nation)
+    
+    **One Nation has no official media or spokespersons**: No individual or group may claim to speak on behalf of the multitude. [Read more about wouino](#faq-project-wouino)
+    
+    **One Nation cannot exclude anyone.** Since it would require a judge, a body of justice, laws, institutions, and so on 🤯😓 [Read more](#faq-constitution)
+
+
+#########
+## FAQ ##
+#########
+
 faq:
-  title: Frequently Asked Questions
+  menu:
+    text: FAQ
+    link: faq
   
-faq_projects: 
-  title: Projects
+  title:
+    main: FAQ
+    projects: Projects
+    boring: The 🥱 questions
   
-faq_boring: 
-  title: The 🥱 questions
+  main:
+    what-is-one-nation: 
+      q: WHAT - What is One Nation? A new country?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    why-one-nation:
+      q: WHY - Why call it « One Nation »?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com 
+    
+    stigmergy:
+      q: STIGMERGY - How One Nation is organized?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    contribute:
+      q: TELEGRAM - How to contribute? Meet? Get in touch?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    emancipation:
+      q: EMANCIPATION - From whom does One Nation emancipates itself?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    master-plan:
+      q: MASTER PLAN - What is the One Nation master plan?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    creative-disobedience:
+      q: DISOBEDIENCE - Why call for creative disobedience?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    non-violence:
+      q: NON-VIOLENCE - How to remain pacific whatever happens?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    who:
+      q: WHO - Who is behind One Nation?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    social-networks:
+      q: SOCIAL NETWORKS - Where to find One Nation on the internet?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    fears-paradoxes:
+      q: FEARS & PARADOXES - Letting go of everything for One Nation is scary!
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    open-source:
+      q: OPEN SOURCE - Why create an Open Source Nation?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+ 
+  # PROJECTS FAQ
+  projects:
+    project-avatars:
+      q: AVATARS - What is my One Nation Avatar?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    project-oasis:
+      q: OASIS - How does One Nation Oases run?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    project-festivals:
+      q: FESTIVALS - Festivals with no program nor organizers? 
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    project-wouino:
+      q: WOUINO - Who is the official One Nation's spokesperson?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+  
+  # BORING FAQ
+  boring:
+    un: 
+      q: UN - Do you intend to get international recognition?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+    
+    constitution: 
+      q: CONSTITUTION - Will One Nation provide itself with its own law texts?
+      a: |
+        TODO: Translate from French.
+        Interested in translating ? => onenationxyz+translations@protonmail.com
+
+#############
+## ROADMAP ##
+#############
 
 roadmap:
-  title: Roadmap
+  menu:
+    text: Roadmap
+    link: roadmap
+    
   buttons:
-    github: Roadmap on Github
-    contribute: Contribution guide
+    github:
+      text: Roadmap on Github
+    contribute:
+      text: Contribution guide
+  
+  title: Roadmap
+  content:
+    intro:
+      p1: |
+        This roadmap is a note of intent, a to do list about the future developments of One Nation.
+      p2: |
+        The more complete, reference roadmap is hosted on [Github's collaborative platform](https://github.com/onenationxyz/onenation/blob/master/roadmap.md). Everything is open-source so feel free to bring your ideas.
+      version: Actual version
+    
+    v1:
+      title: Version 1 > Initiate
+    
+    v1-0:
+      title: v1.0
+      todo: |
+        - Write the Manifest
+        - Kickstart One Nation (logo, website, roadmap)
+        - Publish everything on [Github](https://github.com/onenationxyz/onenation) (open-source)
+    
+    v1-1:
+      title: v1.1 (todo)
+      todo: |
+        - Invite everybody to create his/her own Avatar (ID card) on a physical support [Read more](#faq-project-avatars)
+        - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
+        - Communicate, share and get together.
+    
+    v2:
+      title: Version 2 > Refine
+      todo: |
+        - Big project : Design & develop "Grand Papyrus", the decentralized and unalterable registry of all One Nation Avatars (and much more)
+        - Organize the first(s) One Nation Festival(s)
+        - Create the firsts One Nation Oasis and share experience feedbacks
+        - Adjust the roadmap with energies present
+    
+    v3:
+      title: Version 3 > Transform
+      todo: |
+        - Big project : Design or adopt an alternative currency based on time (on blockchain)
+        - Big project : Design or adopt an open Universal Income
+        - Oasis flourish everywhere on Earth!
+        - Imagin, design, develop and release open source solutions to enhance the resilience of the One Nation Oasis Network
+    
+    v4:
+      title: Version 4 > Récolter
+      todo: |
+        - More emancipated beings
+        - More Oases
+        - More joy, beauty, trust, common sense, respect and creativity on Earth!
+    
+    vfinal:
+      title: Final version > Dissolve
+      text: |
+        - Ultimatly, when harmony and trust are the norms, when humanity finally understands that we are all ONE and unique, then we will no longer need One Nation...
 
-contribute: 
+################
+## CONTRIBUTE ##
+################
+
+contribute:
+  menu:
+    text: Contribute
+    link: contribute
+  
   title: How to contribute ?
+  content: |
+    One Nation fully embraces the principles of **stigmergy** inviting everyone to act spontaneously free from needing validation from others. [Read more](#faq-stigmergy)
+    
+    ###### Sign the Manifest
+    
+    If you need some help to start, here are some suggestions:
+    
+    1. Print/handwrite the Manifest
+    1. Share it with the people around you
+    1. Embody what you have just signed 🥳 
+    
+    ###### To meet
+    
+    Here you won't find any leader or central organization. You are a now a new starting point for the One Nation Network. Find around those ready to initiate and implement The One Nation Manifest, and let's go!
+    
+    Do not hesitate to have a look on Telegram, get in touch with the people around and introduce yourself [Read more](#faq-contribute)
+    
+    ###### About onenation.xyz
+    
+    This open-source website is hosted on [Github](https://github.com/onenationxyz/onenation). Everything is editable, except the Manifest. You may give a hand by adding, updating, translating content of the website.
+    
+    If Github is not your cup of tea, please feel free to join the party on [Telegram](#faq-contribuer) or write at onenationxyz@protonmail.com

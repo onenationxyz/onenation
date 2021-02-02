@@ -1,23 +1,14 @@
-<header id="home_header">
+<header id="home_header" class="hide-for-print">
   <div class="grid-container">
     <div class="grid-x align-justify align-middle">
       <div class="logo cell small-9 medium-7">
-        <a href="{{root}}">
-          <img src="{{ root }}assets/img/onenation_logo.png" alt="One Nation. Global Emancipation">
+        <a href="{{root}}{{translate "global.lang"}}">
+          <img src="{{ root }}assets/img/onenation_logo.png" alt="One Nation logo">
         </a>
       </div>
       <div class="cell small-3 medium-5 text-right">
         {{> github_ribbon}}
-        <ul class="dropdown menu align-right" data-dropdown-menu>
-          <li class="is-dropdown-submenu-parent">
-            <a class="language_select"><span class="hide-for-small-only"><img src="{{ root }}assets/img/icon_lang.png" alt="Language">lang : </span><strong>{{translate "global.lang"}}</strong></a>
-            <ul class="menu">
-              {{#each global.languages}}
-                <li><a href="/{{@key}}"><span class="language_slug">{{@key}}</span> // {{this.name}}</a></li>
-              {{/each}}
-            </ul>
-          </li>
-        </ul>
+        <a href="/" class="language_select"><span class="hide-for-small-only"><img src="{{ root }}assets/img/icon_lang.png" alt="Language">lang : </span><strong>{{translate "global.lang"}}</strong></a>
       </div>
     </div>
   </div>

@@ -1,4 +1,5 @@
 ## Manifest
+### #ONENATION
 
 #### Keďže
 
@@ -16,13 +17,13 @@
 - Neobmedzenú legitimitu uplatnenia mojich tvorivých schopností, pokiaľ nespôsobujú fyzickú či psychickú ujmu druhým.
 - Moju slobodnú vôľu za nositeľa absolútnej zodpovednosti za moje myšlienky, slová a činy.
 
-### Zaväzujem sa
+#### Zaväzujem sa
 
 - Odložiť bokom moje obavy, aby bolo možné s láskou poskytovať opateru sebe samému a všetkým formám života.
 - Uchopiť vlastné schopnosti ako Človeka v prospech harmónie Celku.
 - Uchýliť sa k radostnej a mierumilovnej neposlušnosti vždy, keď sú ohrozené práva akejkoľvek formy života.
 
-_Potvrdzujem tento pakt spájajúci mňa, seba samého k vlastnej podstate a celej Zemi. Srdcom sa pripájam k emancipovaným Bytostiam One Nation naprieč kontinentmi a oceánmi._
+_Ya, _______________________________________ , potvrdzujem tento pakt spájajúci mňa, seba samého k vlastnej podstate a celej Zemi. V tento deň ________________________ , srdcom sa pripájam k emancipovaným Bytostiam One Nation naprieč kontinentmi a oceánmi._
 
 **_Originálny manifest napísaný vo francúzskom jazyku  
 29 februára 2020  

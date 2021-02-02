@@ -1,20 +1,29 @@
-<img src="https://raw.githubusercontent.com/onenationxyz/onenation/dev/website/src/assets/art/manifest_A4/en/en_manifest_onenation.jpg" alt="Heart of One Nation" width="66%" align="center">
+![Manifest One Nation](.github/logo.png)
 
-## Read the Manifest
+## One Nation
 
-- [French/Français (Original)](./manifest/fr_manifeste.md)
-- [English/English](./manifest/en_manifest.md)
+Governments fail in their mission to take care of Humans and Earth.  
+We no longer trust them.  
+They have lost our respect.  
 
-## Website & FAQ
+_So what can we do?_
+
+Complaints are boring...  
+Protests? Too dangerous.  
+Elections? Fruitless.  
+Fighting? Can't be bothered.  
+
+**Whaf if we created a nation instead?**
+
+> By **"Nation"** we mean : Vast group of human beings, conscious about their unity and claiming the desire to live together.
+
+## Website, Manifest, FAQ and more...
 
 - Visit [https://onenation.xyz](https://onenation.xyz)
-- Browse the [FAQ](https://onenation.xyz/en/#faq)
+- Read [the manifest](./manifest/README.md) (5+ languages)
+- Check out [the roadmap](ROADMAP.md)
 
 _The website is hosted on Github pages. [Read more](./website/README.md)_
-
-## Roadmap
-
-Check out [the roadmap](ROADMAP.md)
 
 ## Guidelines
 
@@ -34,3 +43,5 @@ One Nation is headless so you are free to collaborate/append/modifiy/fork anythi
 
 If you want to meet people, you can join the party on Telegram.  
 [Join Telegram groups](https://onenation.xyz/en/#faq-contribute)
+
+![Manifest One Nation](.github/manifest.jpg)

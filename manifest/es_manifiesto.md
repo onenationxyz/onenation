@@ -1,4 +1,5 @@
 ## El Manifiesto
+### #ONENATION
 
 #### Considerando
  
@@ -22,7 +23,7 @@
 - Tomar mi poder de ser humano vivo para emplearlo al servicio de la armonía.
 - Recurrir a la desobediencia alegre y pacífica cuando los derechos fundamentales de lo vivo están en peligro.
 
-_Reconozco ese pacto que me une a mí mismo y a la Tierra. Me sumo con el corazón a los seres emancipados de One Nation más allá de los océanos y los continentes._
+_Yo, _______________________________________ , reconozco ese pacto que me une a mí mismo y a la Tierra. En este día del ________________________ , me sumo con el corazón a los seres emancipados de One Nation más allá de los océanos y los continentes._
 
 **_Manifiesto original escrito en francés
 El 29 de febrero de 2020
