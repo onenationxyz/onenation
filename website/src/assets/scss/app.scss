@@ -103,13 +103,15 @@ $ons-alt-font: "Playfair Display", serif;
     letter-spacing: 0.05em;
     margin: $global-margin 0 $global-margin/2;
     padding: 0 $global-padding;
+    border-radius: $global-radius/2;
 }
-.ons-label-green{background-color: $ons-green; color: $white;}
-.ons-label-blue{background-color: $ons-blue; color: $white;}
-.ons-label-red{background-color: $ons-red; color: $white;}
-.ons-label-yellow{background-color: $ons-yellow; color: $white;}
-.ons-label-gray{background-color: $dark-gray; color: $white;}
-.ons-label-black{background-color: $ons-soft-black; color: $white;}
+// !important are for print
+.ons-label-green{background-color: $ons-green!important; color: $white!important;}
+.ons-label-blue{background-color: $ons-blue!important; color: $white!important;}
+.ons-label-red{background-color: $ons-red!important; color: $white!important;}
+.ons-label-yellow{background-color: $ons-yellow!important; color: $white!important;}
+.ons-label-gray{background-color: $dark-gray!important; color: $white!important;}
+.ons-label-black{background-color: $ons-soft-black!important; color: $white!important;}
 [class^="ons-label-"]{@extend .ons-label}
 
 .ons-bg {
@@ -142,6 +144,10 @@ $ons-alt-font: "Playfair Display", serif;
         content: '//';
     }
 }
+.ons-space{
+    height: $global-margin*2;
+    width: 100%;
+}
 
 .ons-sheet{
     background-color: $white;
@@ -173,6 +179,12 @@ $ons-alt-font: "Playfair Display", serif;
     }
 }
 
+.ons-manuscript{
+    font-family: $ons-alt-font;
+    font-weight: 700;
+    font-style: italic;
+}
+
 .ons-h2toh1{
     h2{
         @extend h1;
@@ -180,13 +192,34 @@ $ons-alt-font: "Playfair Display", serif;
 }
 
 body#language_homepage{
+    .logo{
+        margin-top: $global-margin*3;
+        @include breakpoint(medium){
+        }
+    }
     .languages_list{
-        font-size: 1.4rem;
+        margin-top: $global-margin*2;
+        p{
+            font-size: 1.1em;
+            @include breakpoint(medium){
+                font-size: 1.3em;
+            }
+        }
         .language_slug{
             text-transform: uppercase;
             font-weight: $global-weight-black;
         }
+        small{
+            font-size: 70%;
+            font-weight: $global-weight-black;
+            padding: 0.2em 0.4em;
+            color: $white;
+            border-radius: $global-radius/2;
+        }
     }
+    .language-color-green{background-color: transparentize($ons-green, .3)}
+    .language-color-yellow{background-color: transparentize($ons-yellow, .3)}
+    .language-color-red{background-color: transparentize($ons-red, .3)}
 }
 
 #mobile_nav{
@@ -226,23 +259,29 @@ body#language_homepage{
 #home_header{
     background: url('../img/onenation_header_bg.jpg') center bottom;
     background-size: cover;
+    .language_select{
+        text-transform: uppercase;
+        color: $black;
+        padding: 0.2em 0.4em;
+        border-radius: $global-radius/2;
+        line-height: 1.6;
+        strong{
+            display: inline-block;
+        }
+        img{
+            max-width: rem-calc(16);
+            margin-right: rem-calc(5);
+        }
+        &:hover{
+            background-color: transparentize($white, 0.5);
+        }
+    }
+}
+#homepage #home_header{
+    background-image: url('../img/onenation_header_bg_earth.jpg');
     @include breakpoint(small){min-height: rem-calc(222)}
     @include breakpoint(medium){min-height: rem-calc(300)}
     @include breakpoint(large){min-height: rem-calc(400)}
-    .menu{
-        & > li > a{
-            color: $ons-soft-black;
-        }
-        .language_slug{
-            text-transform: uppercase;
-        }
-        .language_select{
-            img{
-                max-width: rem-calc(16);
-                margin-right: rem-calc(5);
-            }
-        }
-    }
 }
 
 #main_menu{
@@ -259,12 +298,50 @@ body#language_homepage{
     
 }
 
-#manifest{
+@mixin manifest-bg-color($name, $start, $stop) {
+    [data-bg="#{$name}"]{
+        background-image: linear-gradient(315deg, transparentize($start, 0.36) 0%, transparentize($stop, 0.36) 74%)!important;
+        .ons-manuscript{ color: darken($stop, 10%) }
+    }
+}
+@include breakpoint(medium) {
+    [data-bg="0"]{
+        background-color: $white;
+        &.badge{
+            border: dotted $medium-gray 2px;
+        }
+    }
+    @include manifest-bg-color(1, #FCE043, #FB7BA2);
+    @include manifest-bg-color(2, #ffdd00, #fbb034);
+    @include manifest-bg-color(3, #ff8489, #d5adc8);
+    @include manifest-bg-color(4, #feae96, #b91372);
+    @include manifest-bg-color(5, #a7acd9, #9e8fb2);
+    @include manifest-bg-color(6, #abe9cd, #3eadcf);
+    @include manifest-bg-color(7, #2a2a72, #008de5);
+    @include manifest-bg-color(8, #09203f, #537895);
+    @include manifest-bg-color(9, #000000, #2c3e50);
+}
+.section-manifest{
+    padding-top: $global-margin;
+    padding-bottom: $global-margin;
+    @include breakpoint(medium){
+        border-radius: $global-radius;
+    }
+    .cell{
+        background-color: #FFF!important;
+    }
     h2{
         font-family: $ons-alt-font;
         font-weight: 700;
         font-style: italic;
         text-align: center;
+        margin-bottom: 0;
+    }
+    h3{
+        font-weight: 700;
+        text-align: center;
+        font-size: 1.2em;
+        letter-spacing: 0.1em;
     }
     h4{
         @extend .ons-label;
@@ -285,7 +362,7 @@ body#language_homepage{
         line-height: 1.1;
         @include breakpoint(medium){
             margin: 0 $global-margin*2 $global-margin;
-            font-size: 1.2em;
+            font-size: 1.1em;
         }
         li{
             margin-bottom: 0.8em;
@@ -298,8 +375,11 @@ body#language_homepage{
         text-align: justify;
         font-style: italic;
         font-size: 1em;
-        line-height: 1.2em;
-        letter-spacing: 0; 
+        line-height: 1.4em;
+        letter-spacing: 0;
+        & > em{
+            word-break: break-word;
+        }
     }
     .button {
         text-transform: uppercase;
@@ -313,10 +393,78 @@ body#language_homepage{
     p > strong > em{
         display: block;
         text-align: right;
+        font-size: 1em;
     }
 }
 
-#vision {
+body#manifest{
+    background-color: #FFF;
+    .section-manifest{
+        padding: 0;
+        @include breakpoint(medium){
+            box-shadow: none;
+        }
+        p > strong > em{
+            display: none;
+        }
+        .footer-logo img{
+            width: 50%;
+            opacity: .8;
+        }
+        @include breakpoint(medium){
+            margin-top: $global-margin*2;
+            margin-bottom: 0;
+            padding: 0;
+            .ons-sheet{
+                margin: $global-margin;
+            }
+            .footer-logo img{
+                width: 40%;
+            }
+        }
+        @media print {
+            margin-left: $global-margin;
+            margin-right: $global-margin;
+            box-shadow: none;
+            .ons-sheet{
+                background-color: $white!important;
+                padding: $global-margin $global-margin*2;
+            }
+            h4{
+                margin-top: $global-margin;
+                font-size: 1.1em;
+            }
+            ul{
+                font-size: 1em;
+                margin: 0 $global-margin*2 $global-margin;
+                li{
+                    margin-bottom: 0.3em;
+                }
+            }
+        }
+        .ons-manuscript{
+            font-size: 120%;
+            letter-spacing: 0.02em;
+            padding: 0 $global-padding/4;
+        }
+    }
+    #form_manifest{
+        margin-top: $global-margin*3;
+        margin-bottom: $global-margin*2;
+        .badge{
+            font-size: 1.3em;
+            cursor: pointer;
+        }
+    }
+    #help{
+        margin-top: $global-margin*3;
+        margin-bottom: $global-margin*2;
+    }
+}
+
+
+
+.section-vision{
     margin: $global-margin*3 auto;
     .ons-icon{
         img{
@@ -341,7 +489,7 @@ body#language_homepage{
     
 }
 
-#disclaimer{
+.section-disclaimer{
     padding-top: $global-padding*5;
     padding-bottom: $global-padding*5;
     font-size: 1.1em;
@@ -360,7 +508,7 @@ body#language_homepage{
     }
 }
 
-#faq{
+.section-faq{
     padding-top: $global-padding*5;
     padding-bottom: $global-padding*5;
 
@@ -405,7 +553,7 @@ body#language_homepage{
    
 }
 
-#roadmap{
+.section-roadmap{
     font-family: $font-family-monospace;
     font-size: 0.9em;
     @include breakpoint(medium){font-size: 1em;}
@@ -442,7 +590,7 @@ body#language_homepage{
 }
 
 
-#contribute {
+.section-contribute {
     padding-top: $global-padding*5;
     padding-bottom: $global-padding*5;
     h6{

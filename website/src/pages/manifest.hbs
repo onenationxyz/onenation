@@ -1,0 +1,111 @@
+---
+page_id: manifest
+---
+
+<!-- HOME HEADER -->
+{{> home_header}}
+
+<section id="form_manifest" class="grid-container hide-for-print">
+  <div class="callout warning show-for-small-only">{{translate "global.manifest.indications.notice"}}</div>
+  <div class="grid-x align-center">
+    <div class="cell medium-10 hide-for-small-only">
+      <div class="grid-x">
+        <div class="cell">
+          <label for="input_name" class="right inline"><strong>{{translate "global.manifest.form.name.name"}}</strong> <em>{{translate "global.manifest.form.name.label"}}</em></label>
+          <input type="text" id="input_name">
+          <label for="input_date" class="right inline"><strong>{{translate "global.manifest.form.date.name"}}</strong> <em>{{translate "global.manifest.form.date.label"}}</em></label>
+          <input type="text" id="input_date">
+          <label class="right inline"><strong>{{translate "global.manifest.form.color"}}</strong></label>
+          <span class="badge" data-bg="0" onclick="change_bg_color('0')">&nbsp;</span>
+          <span class="badge" data-bg="1" onclick="change_bg_color('1')">&nbsp;</span>
+          <span class="badge" data-bg="2" onclick="change_bg_color('2')">&nbsp;</span>
+          <span class="badge" data-bg="3" onclick="change_bg_color('3')">&nbsp;</span>
+          <span class="badge" data-bg="4" onclick="change_bg_color('4')">&nbsp;</span>
+          <span class="badge" data-bg="5" onclick="change_bg_color('5')">&nbsp;</span>
+          <span class="badge" data-bg="6" onclick="change_bg_color('6')">&nbsp;</span>
+          <span class="badge" data-bg="7" onclick="change_bg_color('7')">&nbsp;</span>
+          <span class="badge" data-bg="8" onclick="change_bg_color('8')">&nbsp;</span>
+          <span class="badge" data-bg="9" onclick="change_bg_color('9')">&nbsp;</span>
+        </div>
+        <div class="ons-space"></div>
+        <div class="cell text-center">
+          <a href="javascript:reset_form()" class="button secondary clear">{{translate "global.manifest.form.reset"}}</a>
+          <a href="javascript:window.print();" class="button hollow secondary">{{translate "global.manifest.form.print"}}</a>
+          <a href="#help" class="button clear">{{translate "global.manifest.form.help"}}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="manifest_content" class="section-manifest grid-container" data-bg="1">
+  <div class="grid-x align-right grid-margin-y">
+    <div class="ons-sheet ons-h2toh1">
+      {{#markdown}}{{read (replace "../manifest/[filename].md" "[filename]" (translate "global.manifest.filename"))}}{{/markdown}}
+      <div class="footer-logo text-center">
+        <img src="{{ root }}assets/img/onenation_logo_url.png">
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="hide-for-print">
+  <section id="help" class="grid-container">
+    <div class="grid-x align-center grid-margin-y">
+      <div class="cell expanded ons-title text-center">
+        <h3><strong>{{translate "global.manifest.indications.title"}}</strong></h3>
+      </div>
+      <div class="cell medium-10">
+        {{#markdown}}{{translate "global.manifest.indications.content"}}{{/markdown}}
+      </div>
+    </div>
+  </section>
+</div>
+
+<div class="hide-for-print">
+  {{> footer}}
+</div>
+
+<script>
+  var placeholder_name = " _______________________________________ ";
+  var placeholder_date = " ________________________ ";
+  
+  var input_name = document.getElementById("input_name");
+  var input_date = document.getElementById("input_date");
+  
+  function wrap_text(text, tag_id) {
+    var inputText = document.getElementById("manifest_content");
+    var innerHTML = inputText.innerHTML;
+    var index = innerHTML.indexOf(text);
+    if (index >= 0) {
+      innerHTML = innerHTML.substring(0,index) + "<span id='"+tag_id+"'>" + innerHTML.substring(index,index+text.length) + "</span>" + innerHTML.substring(index + text.length);
+      inputText.innerHTML = innerHTML;
+    }
+  }
+  
+  function reset_form(){
+    input_name.value = '';
+    input_date.value = '';
+    document.getElementById("manifest_content").setAttribute('data-bg', 1);
+    
+    var event = new Event('input');
+    input_name.dispatchEvent(event);
+    input_date.dispatchEvent(event);
+  }
+  
+  function change_bg_color(color){
+    document.getElementById("manifest_content").setAttribute("data-bg", color);
+  }
+  
+  function clean_all(){jQuery('.hide-for-print').hide()}
+  
+  wrap_text(placeholder_name, "span_name");
+  wrap_text(placeholder_date, "span_date");
+
+  input_name.addEventListener("input", function(){
+    document.getElementById("span_name").innerHTML = this.value ? "<span class='ons-manuscript'>" + this.value + "</span>" : placeholder_name;
+  });
+  input_date.addEventListener("input", function(){
+    document.getElementById("span_date").innerHTML = this.value ? "<span class='ons-manuscript'>" + this.value + "</span>" : placeholder_date;
+  });
+</script>

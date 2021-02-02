@@ -1,4 +1,5 @@
-## Il Manifesto 
+## Il Manifesto
+### #ONENATION
 
 #### Considerando
 
@@ -21,7 +22,7 @@
 - Afferrare il mio potere di essere umano vivo per usarlo al servizio dell'armonia.
 - Ricorrere alla disobbedienza gioiosa e pacifica, quando i diritti fondamentali della vita sono in pericolo.
 
-_Riconosco questo patto che mi lega a me stesso e alla Terra. Raggiungo dal cuore gli Esseri emancipati di One Nation oltre gli oceani e i continenti._
+_Io, _______________________________________ , riconosco questo patto che mi lega a me stesso e alla Terra. In questo giorno del ________________________ , raggiungo dal cuore gli Esseri emancipati di One Nation oltre gli oceani e i continenti._
 
 **_Manifesto originale scritto in lingua francese  
 Il 29 febbraio 2020  

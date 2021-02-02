@@ -1,4 +1,5 @@
 ## The Manifest
+### #ONENATION
 
 #### Whereas
 
@@ -22,7 +23,7 @@
 - To seize my power as a living Human Being and use it to serve harmony.  
 - To resort to joyful and pacific disobedience whenever fundamental rights of Life are in danger.
 
-_I acknowledge this pact that links me to myself and the Earth. I connect through my heart with the emancipated Beings of One Nation across all oceans and continents._
+_I, _______________________________________ , acknowledge this pact that links me to myself and the Earth. Today ________________________ , I connect through my heart with the emancipated Beings of One Nation across all oceans and continents._
 
 **_Original manifest written in french language  
 On february the 29th of 2020  

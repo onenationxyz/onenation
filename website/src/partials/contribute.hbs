@@ -1,4 +1,4 @@
-<section id="contribute" class="grid-container" data-magellan-target="contribute" data-deep-link>
+<section id="{{translate "global.contribute.menu.link"}}" class="section-contribute grid-container" data-magellan-target="{{translate "global.contribute.menu.link"}}" data-deep-link>
   <div class="grid-x grid-padding-x grid-margin-y align-center align-middle">
 
     <div class="cell shrink ons-title">
@@ -6,7 +6,7 @@
     </div>
 
     <div class="cell medium-11 expand ons-text">
-      {{#markdown}}{{read (replace "src/locales/[lang]/contribute.md" "[lang]" (translate "global.lang"))}}{{/markdown}}
+      {{#markdown}}{{translate "global.contribute.content"}}{{/markdown}}
     </div>
   </div>
 </section>

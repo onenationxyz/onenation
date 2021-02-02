@@ -5,22 +5,16 @@ page_id: language_homepage
 {{> github_ribbon}}
 
 <div class="grid-container">
-  <div class="grid-y grid-frame text-center">
-    <div class="cell auto"><!-- Empty div for vertical centering --></div>
-    <div class="cell shrink">
-      <div class="grid-x align-center">
-        <div class="cell small-10">
-          <img src="{{ root }}assets/img/onenation_logo_colorful.png" alt="One Nation. Global Emancipation">
-        </div>
-      </div>
+  <div class="grid-x align-center text-center">
+    <div class="cell logo small-11 medium-8">
+      <img src="{{ root }}assets/img/onenation_logo_colorful.png" alt="One Nation. Global Emancipation">
     </div>
-    <div class="languages_list cell shrink">
+    <div class="languages_list cell expanded">
       {{#each global.languages}}
-        <p><a href="/{{@key}}"><span class="language_slug">{{@key}}</span> // {{this.name}}</a></p>
+        <p><a href="/{{@key}}"><span class="language_slug">{{@key}}</span>_ {{this.name}}</a> <small class="language-color-{{this.color}}">{{this.translation}}%</small></p>
       {{/each}}
     </div>
-    <div class="cell auto"><!-- Empty div for vertical centering --></div>
-    <div class="cell shrink footer">
+    <div class="cell expanded footer">
       {{> footer}}
     </div>
   </div>
