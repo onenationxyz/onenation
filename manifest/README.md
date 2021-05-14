@@ -15,7 +15,7 @@ It defines the **minimal set of values** shared amongst the human beings of One 
 
 Today, you may consider signing the manifest like a psycho-magic act, **a covenant with yourself and the Earth**. No external authority will ever check whether you live according to those terms or not.
 
-Soon, One Nation will create a decentralized, unalterable ID registry: the Grand Papyrus. At that moment the manifest will hold the role of "term and conditions" before creating your new Avatar. 
+Soon, One Nation will create a decentralized, unalterable ID registry: One Crystal. At that moment the manifest will hold the role of "term and conditions" before creating your new Avatar. 
 
 ### How to use it
 

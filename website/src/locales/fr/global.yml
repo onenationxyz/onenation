@@ -45,6 +45,8 @@ manifest:
     content: |
       **IMPORTANT**
       Pour une impression idéale, active la fonction "imprimer les arrières plans" lors de l'impression / sauvegarde en pdf.
+      Les meilleurs résultats sont obtenus sur ordinateur avec Chrome ou Opéra.
+      Sinon il est toujours possible de faire une capture d'écran 😉
       
       **IMPRIMER**
       Pour imprimer clique sur le bouton "Imprimer" ou utilise directement la fonction du navigateur Ficher > Imprimer.
@@ -75,15 +77,15 @@ vision:
         title: |
           **Le Cœur** de One Nation
         text1: |
-          Les gouvernements échouent dans leur mission.  
-          Ils ne prennent soin ni des Êtres humains ni de la Terre.  
-          Nous n'avons plus confiance, ils ont perdu notre respect.  
+          Les gouvernements échouent dans leur mission.
+          Ils ne prennent soin ni des Êtres humains ni de la Terre.
+          Nous n'avons plus confiance, ils ont perdu notre respect.
         text2: |
           Mais alors, que faire ?
         text3: |
-          Se plaindre ? _Quel ennui..._  
-          Manifester ? _Trop dangereux !_  
-          Voter ? _Aucun effet_  
+          Se plaindre ? _Quel ennui..._
+          Manifester ? _Trop dangereux !_
+          Voter ? _Aucun effet_
           Combattre ? _La flemme !_
         text4: |
           **Et si on créait plutôt une Nation !?**
@@ -96,10 +98,10 @@ vision:
         
         Ici, peur et colère cèdent la place à la **créativité** et au **courage**.
         
-        Nul besoin de nouveaux chefs, de lois ou d'institutions entre nous.  
+        Nul besoin de nouveaux chefs, de lois ou d'institutions entre nous.
         Le Manifeste atteste de nos intentions communes envers le Vivant.
         
-        Ce texte est le trait d’union entre toutes nos différences.  
+        Ce texte est le trait d’union entre toutes nos différences.
         La confiance mutuelle nous permet d’agir **spontanément en stigmergie**.
     
     body:
@@ -126,7 +128,7 @@ disclaimer:
 
   title: Lisez-moi
   content: |
-    **Est entendu par nation :** "Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun ».
+    **Est entendu par nation :** "Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun".
     
     **One Nation est profondément non-violente.** [En savoir +](#faq-non-violence)
     
@@ -155,14 +157,14 @@ faq:
     one-nation-cest-quoi: 
       q: QUOI - One Nation c’est quoi ? Un pays ?
       a: |
-        Non, One Nation n’est pas un nouveau pays ! Ni un Nouvel Ordre Mondial.
+        Non, One Nation n’est pas un nouveau pays ! Ni un Nouvel Ordre Mondial.
         Ce n’est pas une association, un syndicat, un parti politique, une ONG, un lobby, une entreprise ou toute forme d’institution ancrée dans le monde légal.
-        Et faut-il le dire ? Ce n’est pas une secte
+        Et faut-il le dire ? Ce n’est pas une secte.
         
         ###### Alors, qu’est-ce que c’est ?
         
-        Il existe une vague d’émancipation à l’**échelle planétaire** prenant silencieusement de l'amplitude, chaque année, depuis des décénies.
-        Nous avons eu l'idée de lui donner un nom et choisi de l'appeler One Nation...
+        Il existe une vague d’émancipation à l’**échelle planétaire** prenant silencieusement de l'amplitude chaque année, depuis des décénies.
+        Nous avons eu l'idée de lui donner un nom et choisi de l'appeler One Nation.
         
         #ONENATION
         
@@ -171,7 +173,7 @@ faq:
         Ce n’est pas une organisation à proprement parler. Son fonctionnement est **naturel**, **organique**, basé sur la [stigmergie](#faq-stigmergie).
     
     pourquoi-one-nation:
-      q: POURQUOI - Pourquoi « One Nation » ?
+      q: POURQUOI - Pourquoi « One Nation » ?
       a: |
         ###### One 
         
@@ -184,7 +186,7 @@ faq:
         
         Nous ne retenons pas du tout l’aspect politique d’une nation, ni l’idée d’appartenance idéologique.
         
-        Nous entendons le mot **nation** au sens de _« Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun »_. 
+        Nous entendons le mot **nation** au sens de _« Groupe humain assez vaste, qui se caractérise par la conscience de son unité et par la volonté de vivre en commun »_.
     
     stigmergie:
       q: STIGMERGIE - Comment s'organise One Nation ?
@@ -193,7 +195,7 @@ faq:
         
         ###### Une "non-organisation"
         
-        One Nation est une « non-organisation planétaire » décentralisée, sans gouvernance ni frontières…
+        One Nation est une « non-organisation planétaire » décentralisée, sans gouvernance ni frontières.
         Elle embrasse pleinement la stigmergie : ce mode de décision et d’action **spontané**, **décentralisé**, **sans chef ni organisation centrale**. Chacun prend ses initiatives de façon autonome, sans attendre l’aval de l’autre, ni son autorisation.
         
         Aujourd’hui dans toute organisation collective on observe des règles partout, des circulaires, des comités… Nous préférons **faire le pari de la spontanéité**, du partage, du sens de la responsabilité et de la confiance sur le fait que chacun agisse pour le bien commun.
@@ -218,13 +220,13 @@ faq:
     contribuer:
       q: TELEGRAM - Comment contribuer ? Se rencontrer ? Qui contacter ?
       a: |
-        Il n’y a pas de groupe « officiel » One Nation.
+        Il n’y a pas de groupe officiel One Nation.
         Chacun est libre d’être un nouveau point de départ pour incarner One Nation sur Terre.
         
         ###### Telegram
         
         Un premier élan se dessine néanmoins sur Telegram.
-        La conception et la philosophie de Telegram se prêtent assez bien au fonctionnement de One Nation (voir [stigmergie](#faq-stigmergie). Il y a 400 millions d’utilisateurs actifs et concernés par le respect de leurs données sur cette plateforme de messagerie.
+        La conception et la philosophie de Telegram se prêtent assez bien au fonctionnement de One Nation (voir [stigmergie](#faq-stigmergie). Il y a 500+ millions d’utilisateurs actifs et concernés par le respect de leurs données sur cette plateforme de messagerie.
         
         ###### Démarrage rapide
         
@@ -237,7 +239,7 @@ faq:
         ###### Fonctionnement
         
         Toute personne est libre de créer un groupe et d’y organiser les discussions.
-        Il n’y a pas de groupe central et aucune permission à demander avant de se lancer. Les groupes très actifs se diviseront naturellement en sous-groupes et les groupes inutiles ne recevront la visite de personne.
+        Il n’y a pas de groupe central et aucune permission à demander avant de se lancer. Les groupes très actifs se diviseront naturellement en sous-groupes et les groupes inutiles seront inactifs ou ne recevront la visite de personne.
         
         Telegram propose une fonction de recherche pour obtenir la liste de tous les groupes public One Nation.
         Voici une proposition de nomenclature pour les noms des groupes afin de pouvoir s’y retrouver plus facilement.
@@ -248,11 +250,11 @@ faq:
         Chaque groupe anglophone commence par **onenation_en_**
         etc etc …
         
-        NB : Philosophiquement nous chercherons à diviser les groupes par « langue » plutôt que par « pays ».
+        NB : Philosophiquement nous chercherons à diviser les groupes par « langue » plutôt que par « pays ».
         
         ###### Exemples de groupes
         
-        **onenation_fr_avatars** : présentantion des avatars francophones
+        **onenation_fr_avatars** : présentation des avatars francophones
         **onenation_en_avatars** : présentation des avatars anglophones
         …
         **onenation_fr_projets** : annonces et discussions générales sur les projets #onenation
@@ -270,7 +272,7 @@ faq:
         Rien ne t’empêche de créer un groupe privé si tu veux échanger en cercle restreint.
         C’est possible également de créer des groupes temporaires qui ne sont pas voués à exister dans le temps.
         
-        ##### Règles du groupe
+        ###### Règles du groupe
         
         Chaque groupe propose dès le départ les règles du jeu en utilisant un message épinglé.
         
@@ -285,7 +287,7 @@ faq:
         1. **Ce n’est pas fini !** Pour l'instant c'est un groupe privé...
         1. Ouvre les paramètres du groupe puis "Modifier" ou "Edit"
         1. Change le type de groupe
-         - Choisi groupe « Public »
+         - Choisi groupe « Public »
          - Lien : t.me/**onenation_fr_nomdugroupe** (le même nom)
         1. Ajoute une photo (le logo par exemple)
         1. Ajoute une description
@@ -311,7 +313,7 @@ faq:
         Tu vis chez tes parents, ton individualité est pleinement construite et tu es désormais en mesure de choisir pour toi-même.
         
         Chez tes parents, il y a quelques règles très importantes comme par exemple :
-        - Tout le monde mange, à table, ensemble, à heures fixes
+        - Tout le monde mange à table, ensemble, à heures fixes
         - Le chat n’a pas le droit d’aller dans les chambres
         
         Parfois tu écoutes tes besoins/envies. Tu te fais un bon repas tout seul en plein milieu d’après-midi. Ou bien tu ouvres la porte au chat pour qu’il passe la nuit avec toi… En agissant ainsi tu te places en position de désobéissance. 
@@ -333,7 +335,7 @@ faq:
         
         #BottomUp. Le pari de One Nation est de laisser les initiatives émerger par elles-mêmes. Sur le terrain on vit, on invente, on innove, on s'autorise à faire différemment. Lorsque des solutions fonctionnent, elles sont naturellement partagées. One Nation vient alors en relais leur apporter une dimension systémique.
         
-        One Nation maintient une roadmap flexible qui laisse la place aux surprises. N'hésite pas à prendre le temps de découvrir la feuille de route (roadmap) et pourquoi pas d'y apporter ta contribution ?
+        One Nation maintient une feuille de route (roadmap) flexible qui laisse la place aux surprises. N'hésite pas à prendre le temps de découvrir la roadmap et pourquoi pas d'y apporter ta contribution ?
         
         S'il fallait définir une version minimale de la feuille de route ce serait : 
         1. Retrouver mon pouvoir personnel à l'échelle individuelle
@@ -351,7 +353,7 @@ faq:
         
         Pour rester intègres et cohérents avec nos valeurs, nous sommes prêts à désobéir. En désobéissant **nous retirons notre consentement silencieux** qui nous ronge intérieurement.
         
-        Il ne s’agit pas de rejeter tout d’un bloc dans notre vie "en société". Tout dépend de ta vie, ta situation, des thèmes qui te concernent (instruction, agriculture, transports…). Il ne s’agit pas de s’opposer contre, mais plutôt de protéger pour…
+        Il ne s’agit pas de rejeter tout d’un bloc dans notre vie "en société". Tout dépend de ta vie, ta situation, des thèmes qui te concernent (instruction, agriculture, transports…). Il ne s’agit pas de s’opposer contre, mais plutôt de protéger pour…
         
         ###### Comment rester joyeux et créatif dans la désobéissance ?
         
@@ -395,7 +397,7 @@ faq:
         En ligne chaque initiative individuelle ou collective est donc visible derrière le hashtag **#onenation**.
         Sur ton chemin, si tu tombes sur des propos qui ne te plaisent pas, n'oublies pas que ceux-ci n'engagent que son créateur et non l'ensemble des Êtres reliés par One Nation.
         
-        Pour se rencontrer en vrai tu peux rejoindre les groupes Telegram [en savoir plus](#faq-contribuer) et trouver des gens proche de chez toi.
+        Pour se rencontrer en vrai tu peux rejoindre les groupes Telegram [en savoir plus](#faq-contribuer) et trouver des gens proches de chez toi.
     
     peurs-paradoxes:
       q: PEURS & PARADOXES - J’ai peur de tout lâcher pour One Nation !
@@ -441,30 +443,30 @@ faq:
         En revanche, tu **n’es pas** ta carte d’identité. Tu l’administres.
         C’est ton avatar obligatoire pour pouvoir interagir avec le monde légal et administratif, et inversement. C'est la condition pour t'imposer les règles du jeu. 
         
-        Ces identités ne sont pas indispensables à la survie, mais sont un outil pour organiser et fluidifier la vie en « société ». 
+        Ces identités ne sont pas indispensables à la survie, mais sont un outil pour organiser et fluidifier la vie en « société ».
         
         Actuellement tu n’as aucun contrôle sur ton identité. Elle est verrouillée et délivrée par une autorité extérieure. Tes parents t’ont donné un prénom, tu as hérité d’un nom de famille. Tu dois demander une autorisation pour modifier n’importe quel paramètre (prénom, nom, sexe, …)
         
         ###### Avatars One Nation // Aujourd'hui
         
-        Aujourd’hui, One Nation te propose de reprendre symboliquement le contrôle sur ton identité. Tu es invité.e (après avoir signé avec toi-même le manifeste) à concevoir de tes mains une carte d’identité qui te ressemble : **ton avatar** . Tu es la seule autorité en mesure de te délivrer cette « carte identité ».
+        Aujourd’hui, One Nation te propose de reprendre symboliquement le contrôle sur ton identité. Tu es invité.e (après avoir signé avec toi-même le manifeste) à concevoir de tes mains une carte d’identité qui te ressemble : **ton avatar** . Tu es la seule autorité en mesure de te délivrer cette « carte identité ».
         
-        Ensuite il ne tient qu’à toi de dégainer ta carte lorsqu’une autorité te demande « montrez-moi vos papiers s’il vous plait ».
+        Ensuite il ne tient qu’à toi de dégainer ta carte lorsqu’une autorité te demande « montrez-moi vos papiers, s’il vous plait ».
         
         Nous sommes d’accord, c’est un acte psycho-magique avant tout. Il nous permet de retrouver notre intégrité en tant qu'Être humain. Puisque nous ne sommes pas notre personne juridique, nous choisissons quand la représenter ou pas.
         
         ###### Avatars One Nation // Demain
         
-        Un des premiers objectifs de One Nation est de développer le Grand Papyrus : un registre numérique inaltérable (de type blockchain) pour accueillir tous les avatars que nous nous sommes délivrés. Ce registre ouvert et décentralisé constituera les fondations pour catalyser toutes nos métamorphoses individuelles en force collective. 
+        Un des premiers objectifs de One Nation est de développer One Crystal : un registre numérique inaltérable (de type blockchain) pour accueillir tous les avatars et passeports que nous nous sommes délivrés. Ce registre ouvert et décentralisé constituera les fondations pour catalyser toutes nos métamorphoses individuelles en force collective.
         
-        La nationalité One Nation (auto-délivrée) n'a pas de but identitaire. C'est la brique de base pour concevoir des systèmes vertueux (ex: revenu universel …) ouverts et open-source. Nous pourrons alors nous affranchir de l’ancien et jouer un nouveau « jeu de société », celui que nous avons réellement créé et choisi.
+        La nationalité One Nation (auto-délivrée) n'a pas de but identitaire. C'est la brique de base pour concevoir des systèmes vertueux (ex: revenu universel …) ouverts et open-source. Nous pourrons alors nous affranchir de l’ancien et jouer un nouveau « jeu de société », celui que nous avons réellement créé et choisi.
     
     projet-oasis:
       q: OASIS - Comment fonctionnent les territoires One Nation ?
       a: |
         Un Oasis est un lieu de respiration autoproclamé dans un système en asphyxie.
         
-        Les Oasis sont connectés par une intention collective de vivre dans une interdépendance harmonieuse avec le vivant. Ils peuvent prendre la forme d' : 
+        Les Oasis sont connectés par une intention collective de vivre dans une interdépendance harmonieuse avec le vivant. Ils peuvent prendre les formes suivantes : 
         - Un village
         - Une maison
         - Une forêt
@@ -542,7 +544,7 @@ faq:
         
         **One Nation ne promulguera jamais un seul texte de loi.** 
          
-        One Nation n'est est pas philosophiquement (ou techniquement) en mesure d'écrire et d'appliquer des textes de loi. Pour qu'une loi existe, nous avons besoin d'une institution en charge d'écrire les textes, et plusieurs autres pour les faire appliquer (généralement par la force). C'est à l'opposé de l'esprit One Nation. Nous ne pensons pas qu'une loi puisse être applicable en tout lieu et tout temps sur Terre.
+        One Nation n'est pas philosophiquement (ou techniquement) en mesure d'écrire et d'appliquer des textes de loi. Pour qu'une loi existe, nous avons besoin d'une institution en charge d'écrire les textes, et plusieurs autres pour les faire appliquer (généralement par la force). C'est à l'opposé de l'esprit One Nation. Nous ne pensons pas qu'une loi puisse être applicable en tout lieu et tout temps sur Terre.
         
         Bien sûr, au niveau local, il revient à chaque Oasis, chaque Être humain d’édicter et d'appliquer ses propres règles de vie.
         Nous imaginons plutôt One Nation comme un centralisateur de solutions créatives pour fluidifier les relations entre Êtres humains. Chaque solution, est imaginée avec l'esprit qu'une bonne conception peut nous affranchir de beaucoup de textes de lois. Ces solutions libres n'ont aucun caractère obligatoire. 
@@ -567,7 +569,7 @@ roadmap:
   content:
     intro:
       p1: |
-        Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation. 
+        Cette feuille de route (roadmap) est une note d'intention pour les développements futurs de One Nation.
       p2: |
         La roadmap de référence, plus complète, se trouve sur la plateforme collaborative Github. Tout est open-source, alors si tu as des envies et des idées. N'hésite pas !
       version: Version actuelle
@@ -581,27 +583,40 @@ roadmap:
         - Rédiger le Manifeste
         - Lancer One Nation (logo, site web, roadmap)
         - Publier le tout en open-source sur [Github](https://github.com/onenationxyz/onenation)
-    
+
     v1-1:
-      title: v1.1 (todo)
+      title: v1.1 (done)
       todo: |
-        - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-projet-avatars) 
-        - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-projet-wouino)
-        - Communiquer, partager, se rencontrer
-    
+        - Inviter chacun à créer son avatar (sa carte d'identité) sur un support physique [En savoir +](#faq-projet-avatars)
+        - Se rencontrer, communiquer, créer ensemble
+        - Commencer la traduction du Manifeste et du site web
+
+    v1-2:
+      title: v1.2 (work in progress)
+      todo: |
+        - Imaginer [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) : territoire numérique émancipé & toile de confiance
+        - Imaginer [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md) : registre inaltérable et décentraliser pour nos passeports One Nation
+        - Traduire vers encore plus de langues
+
+    v1-3:
+      title: v1.3 (todo)
+      todo: |
+        - Developper [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) & [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md)
+        - Produire une vidéo virale planétaire
+
     v2:
       title: Version 2 > Affiner
       todo: |
-        - Grand chantier : Concevoir "Grand Papyrus", le registre inaltérable et décentralisé des avatars One Nation (et plus encore)
         - Organiser le(s) premier(s) festival(s) One Nation
-        - Créer les premiers Oasis One Nation et partager les retours d'expérience
+        - Observer les premiers Oasis One Nation se créer et vivre des expériences
+        - Concevoir Wouino, le porte-parole collaboratif de One Nation [En savoir +](#faq-projet-wouino)
         - Ajuster la roadmap avec les énergies en présence
     
     v3:
       title: Version 3 > Transformer
       todo: |
-        - Grand chantier : Concevoir ou adopter une monnaie alternative basée sur le temps (blockchain)
-        - Grand chantier : Concevoir ou adopter un système de revenu universel
+        - Concevoir ou adopter une monnaie alternative basée sur le temps
+        - Concevoir ou adopter un système de revenu universel
         - Des Oasis naissent partout sur Terre !
         - Imaginer, concevoir et proposer des systèmes en libre adoption pour augmenter la résilience du réseau des Oasis One Nation
     
@@ -610,7 +625,7 @@ roadmap:
       todo: |
         - De plus en plus de personnes émancipées
         - De plus en plus d'Oasis
-        - De plus en plus de joie, beauté, confiance, bon sens, respect et de créativité sur Terre ! 
+        - De plus en plus de joie, beauté, confiance, bon sens, respect et de créativité sur Terre !
     
     vfinal:
       title: Version finale > Dissoudre

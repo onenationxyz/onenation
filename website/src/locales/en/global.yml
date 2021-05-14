@@ -300,27 +300,40 @@ roadmap:
         - Publish everything on [Github](https://github.com/onenationxyz/onenation) (open-source)
     
     v1-1:
-      title: v1.1 (todo)
+      title: v1.1 (done)
       todo: |
         - Invite everybody to create his/her own Avatar (ID card) on a physical support [Read more](#faq-project-avatars)
-        - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
-        - Communicate, share and get together.
-    
+        - Communicate, share and get together
+        - Start translating the Manifest and website to main languages
+
+    v1-2:
+      title: v1.2 (work in progress)
+      todo: |
+        - Design [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) : emancipated digital territory & web of trust
+        - Design [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md) : unalterable decentralized registry for One Nation's passports
+        - Translate to more languages
+
+    v1-3:
+      title: v1.3 (todo)
+      todo: |
+        - Develop [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) & [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md)
+        - Produce a planetary viral video
+
     v2:
       title: Version 2 > Refine
       todo: |
-        - Big project : Design & develop "Grand Papyrus", the decentralized and unalterable registry of all One Nation Avatars (and much more)
         - Organize the first(s) One Nation Festival(s)
         - Create the firsts One Nation Oasis and share experience feedbacks
-        - Adjust the roadmap with energies present
+        - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
+        - Adjust the roadmap
     
     v3:
       title: Version 3 > Transform
       todo: |
-        - Big project : Design or adopt an alternative currency based on time (on blockchain)
-        - Big project : Design or adopt an open Universal Income
+        - Design (or adopt) an alternative currency based on time
+        - Design (or adopt) an open Universal Income system
         - Oasis flourish everywhere on Earth!
-        - Imagin, design, develop and release open source solutions to enhance the resilience of the One Nation Oasis Network
+        - Imagine, design, develop and release open source solutions to enhance the resilience of the One Nation Oasis Network
     
     v4:
       title: Version 4 > Récolter
@@ -332,7 +345,7 @@ roadmap:
     vfinal:
       title: Final version > Dissolve
       text: |
-        - Ultimatly, when harmony and trust are the norms, when humanity finally understands that we are all ONE and unique, then we will no longer need One Nation...
+        - Ultimately, when harmony and trust are the norms, when humanity finally understands that we are all ONE and unique, then we will no longer need One Nation...
 
 ################
 ## CONTRIBUTE ##
