@@ -19,11 +19,11 @@ head:
 
 manifest:
   menu:
-    text: Manifest
-    link: manifest
+    text: Manifesto
+    link: manifesto
   
   button:
-    sign: Print/Sign the Manifest
+    sign: Print the Manifest
 
   form:
     name:
@@ -37,7 +37,7 @@ manifest:
     print: Print the Manifest
     help: help
   
-  filename: en_manifest
+  filename: en_manifesto
 
   indications:
     title: Help
@@ -78,42 +78,43 @@ vision:
       title: |
         The **Heart** of One Nation
       text1: |
-        Governments fail in their mission to take care of Humans and Earth.
-        We no longer trust them.
-        They have lost our respect. 
+        Governments are failing in their mission.
+        They do not care for Human Beings or the Earth.
+        We no longer trust them, they have lost our respect.
       text2: |
-        So what can we do?
+        But what can we do?
       text3: |
-        Complaints are boring...
-        Protests? Too dangerous.
-        Elections? Fruitless.
-        Fighting? Can't be bothered.
+        Complain? Boring...
+        Protest? Too dangerous!
+        Vote? Fruitless.
+        Fight? Can't be bothered!
       text4: |
-        **Whaf if we created a nation instead?**
+        **What if we would create a nation instead!?**
     
     mind:
       title: |
         The **Spirit** of One Nation
       text: |
-        One Nation is a **planetary emancipation wave**. In peace, each one regains the power to choose for oneself and refuse interference from non-legitimate authorities.
+        One Nation is a **planetary emancipation wave** inviting us to reclaim, with serenity, our personal power, and refuse all illegitimate authority.
         
-        Where anger and fear give way to **creativity** and **courage**, there is no need for new rulers, nor for new laws and institutions.
+        Here, fear and anger give way to **creativity** and **courage**.
+        There is no need for new leaders, laws or institutions between us.
         
-        The Manifest affirms our **common quest for harmony**.
+        The Manifesto attests to our **common intentions towards the Living**.
         This text is the link between all our differences.
-        So that mutual trust allows us to **act spontaneously in stigmergy**.
+        Mutual trust allows us to **act spontaneously in stigmergy**.
     
     body:
       title: |
         The **Body** of One Nation
       text: |
-        One Nation vibrates in **each one of us** every time a human being signs the Manifest in good faith with its heart and the soul.
+        One Nation lives first in **each one of us** every time a Human Being signs the Manifesto in good faith with heart and the soul.
         
-        Together we form a **decentralised network** of Human Beings and Oases embracing the values of the Manifest
+        Together we form a **decentralised network** of Human Beings and Oases embodying the values of the Manifesto.
         
-        Every oasis, fixed or movable, is free to experiment its own organisation.
+        Each oasis, fixed or movable, is free to experiment its own organisation.
         
-        One Nation connects **open-source projects** that **build up alternatives to usual instruments of power** such as : identity, money, education, food, medias, ...
+        One Nation connects **open-source projects** that **offer alternatives to the usual instruments of power** (identity, money, education, food, information, ...)
 
 
 ################
@@ -127,15 +128,15 @@ disclaimer:
 
   title: Read me
   content: |
-    **By nation we mean :** "A vast group of Human Beings aware of its unity and its common wish to live together"
+    **By nation it is meant**: "A rather large group of Human Beings, characterised by an awareness of its unity and by the will to live together".
     
-    **One Nation is profoundly non-violent.** [Read more](#faq-non-violence)
+    **One Nation is deeply non-violent.** [Read more](#faq-non-violence)
     
-    **One Nation is not, and will never be** a country, a state, a political party, an institution, an association, an NGO, a lobby, a company, a cult or the New World Order. [Read more](#faq-what-is-one-nation)
+    **One Nation is not, and will never be** a country, a state, a political party, an institution, an association, an NGO, a lobby, a company, a sect or a new world order. [Read more](#faq-what-is-one-nation)
     
-    **One Nation has no official media or spokespersons**: No individual or group may claim to speak on behalf of the multitude. [Read more about wouino](#faq-project-wouino)
+    **One Nation has no official media or spokesperson**: No individual or group may claim to speak on behalf of the multitude. [Read more about wouino](#faq-project-wouino)
     
-    **One Nation cannot exclude anyone.** Since it would require a judge, a body of justice, laws, institutions, and so on 🤯😓 [Read more](#faq-constitution)
+    **One Nation may not exclude anyone.** This would then require a judge, a body of justice, laws, institutions, and so on 🤯😓 [Read more](#faq-constitution)
 
 
 #########
@@ -154,116 +155,394 @@ faq:
   
   main:
     what-is-one-nation: 
-      q: WHAT - What is One Nation? A new country?
+      q: WHAT - What is One Nation? A country?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        No, One Nation is neither a new country nor a new world order.
+
+        It is not an association, a syndicate, a political party, an NGO, a lobby, a company or any form of institution anchored in the legal world.
+        And do we have to mention it? One Nation is not a sect.
+
+        ###### So, what is it?
+
+        There is an emancipation wave at the planetary scale that has been silently growing every year, for decades.
+        We had the idea to give it a name and chose to call it One Nation.
+
+        #ONENATION
+
+        One Nation could be seen as a “label” or a #hashtag to recognise each other among human beings committed to working for harmony and the common good. One Nation is composed of [Avatars](#faq-projet-avatars) (Emancipated Human Beings) living or not living in [Oasis](#faq-projet-oasis) (Emancipated lands)  
+        This is not an organisation as such. Its functioning is natural, organic, based on [stigmergy](#faq-stigmergie).
     
     why-one-nation:
-      q: WHY - Why call it « One Nation »?
+      q: WHY - Why « One Nation »?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com 
+        ###### One
+
+        Whether we like it or not, we all live on the same planet.
+        The Earth is the bond that unites us all.
+
+        Instead of sabotaging the spaceship we all share, we took an oath of living and spreading harmony together, inside us and around us.
+
+        ###### Nation
+
+        We keep away from the political aspect of a nation, and the idea of ideological belonging.
+
+        We understand the word nation in the sense of “A rather large group of Human Beings, characterised by an awareness of its unity and by the will to live together”.
     
     stigmergy:
-      q: STIGMERGY - How One Nation is organized?
+      q: STIGMERGY - How One Nation is organised?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
-    
+        In a word : stigmery ([See Wikipedia](https://en.wikipedia.org/wiki/Stigmergy))
+
+        ###### A "non-organisation"
+
+        One Nation is a « planetary non-organisation » decentralized, without governance or borders.
+        It fully embraces stigmergy: this special way of taking decision in a spontaneous and decentralised way, with no chiefs or central organisation. Each individual takes initiatives autonomously, without waiting for the other’s approvalal or authorisation.
+
+        Today in most collective organisation, we can see rules everywhere, circulars, committees... We prefer to bet on spontaneity, sharing, a sense of responsibility and trust that everyone is acting for the common good.
+
+        Once free from endless meetings in search of a consensus, we are free to act according to our natural impulses. We believe in the balance of initiatives. What is painful one person to do is often source of enthusiasm for another.
+
+        ###### How does it work ?
+
+        Stigmergy is therefore the art of living and letting live, of organising oneself by daring to let go and trust. I let go my will to control everything and I trust the other person in his or her impulses, because I know that he/she is deciding, thinking, and acting to make our collective life more beautiful. I remember that he/she also trusts me. This trust is guaranteed by the signature of the manifesto.
+
+        From a need, several answers will be considered. Instead of trying to agree on THE best solution, why not trying them all?
+
+        Each and every one creates, invents in their own corner, tries, experiments. The most efficient solution will naturally be retained, used and improved. And the least obvious one will be discarded as it is tried, without any need to consult each other. Solutions evolve through time with us, in a living, organic and simple way...
+
+        ###### Re-learn
+
+        We have learned to receive directives, homework, since very young at school.
+        We need to re-learn, in this new world, to act spontaneously, autonomously, to validate our intuitions ourselves and to follow them. Once we have regained this confidence to act spontaneously, then we will become invincible because we will be elusive.
+
+        The more numerous and connected we will be, the stronger this decentralised parallel network will be to be resilient and  offer a real alternative.
+
     contribute:
       q: TELEGRAM - How to contribute? Meet? Get in touch?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
-    
+        There is no official group One Nation.
+        Everyone is free to be a new starting point to embody One Nation on Earth.
+
+        ###### Telegram
+
+        However, a first impulse is emerging on Telegram.
+        Telegram's design and philosophy lends itself quite well with One Nation's operation (see [stigmergie](#faq-stigmergie)). There are 500+ millions active users concerned about the  respect of their data on this messaging platform.
+
+        ###### Quick start
+
+        Telegram is a messaging application working on computer (Linux, Mac OS, Windows) and on smartphone (Android et iOS).
+
+        Step #1 Download Telegram : [https://telegram.org/](https://telegram.org/)
+
+        Step #2 Join the welcome canal : [https://t.me/onenation_en_welcome](https://t.me/onenation_en_welcome)
+
+        ###### How does it work
+
+        Anyone is free to create a group and organise discussions.
+        There is no central group and no permission is required before starting. Groups that are very active will split naturally in sub-groups; and useless groups will be inactive or will probably not get any visitors.
+        
+        Telegram offers a search function to get a list of all public One Nation groups.  
+        Here is a glossary for group names so we can find them more easily.
+
+        ###### Prefixes
+
+        Each Englsih-speaking group begins by **onenation_en_**
+        Each French-speaking group begins by **onenation_fr_**
+        etc etc …
+
+        NB: Philosophically, we rather separate groups by “language” rather than “countries”.
+
+        ###### Groups examples
+
+        **onenation_en_avatars** : presentation of English-speaking avatars
+        **onenation_fr_avatars** : presentation of French-speaking avatars
+        …
+
+        You can also create private groups if you feel like sharing in restricted circles.
+        It's also possible to create temporary groups not destined to last.
+
+        ##### Group rules
+
+        Each group provides a README pinned message for everyone to know the rules of the game of this group.
+        
+        For exemple in the groups onenation_en_avatars, onenation_fr_avatars, etc. are groupswith no discussion. Each one introduces itself in a single message and if you want to discuss about it, you can contact individuals with a personal message or elsewhere.
+
+        ###### Create a group
+
+        1. Open Telegram
+        1. Create a group
+        1. Invite a first member (mandatory)
+        1. Group name : **onenation_en_groupname** (see above)
+        1. **It is not complete** for the moment it's a private group...
+        1. Open group parameters then "Modify" or "Edit"
+        1. Change group type
+         - Select « Public »
+         - Link : t.me/**onenation_en_groupname** (same name)
+        1. Add a picture (the logo for example)
+        1. Add a description
+        1. Write the first message **README** with game rules for the group
+        1. Pin this message so that everyone can find it easily.
+        1. Announce this new group somewhere else where it's appropriated.
+
+        ###### To conclude
+
+        If other groups organise themself somewhere else than Telegram, that's fine !
+        The most important is that something happen 😉
+
     emancipation:
-      q: EMANCIPATION - From whom does One Nation emancipates itself?
+      q: EMANCIPATION - From whom is One Nation emancipating?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        ###### In a nutshell
+
+        One Nation emancipates itself from any illegitimate authority.
+        
+        ###### Parable of emancipation
+
+        Imagine this:
+        You live at your parents' home, your individuality is fully developed and you are now able to choose for yourself.
+
+        At your parents' house, there are very important rules, for example:
+        - Everyone eats at table, together, at fixed time. 
+        - The cat isn't allowed to go in bedrooms. 
+
+        Sometimes you listen to your needs/desires. You make yourself a nice meal in the middle of the afternoon. Or you open the door for the cat to spend the night with you... Acting this way, you put yourself in a position of disobedience.
+
+        One day you get tired of feeling like an outlaw even though  you are obviously not harming anyone. That day, you decide, without anger, to look for your own place. A place where you can eat pastas at 4pm and sleep alongside your cat without breaking disobeying anyone.
+
+        **For One Nation, it's the same!**
+
+        It is impossible to maintain our integrity and creativity in this world full of 💩🤕🤦 rules. We do not expect anything from government and others institutions that, a thousand times have proved their irresponsibility and bad faith.
+
+        So bye bye! From now, we answer with a happy and calm "no" to all illegitimate injunctions.
     
     master-plan:
-      q: MASTER PLAN - What is the One Nation master plan?
+      q: MASTER PLAN - What is the One Nation's masterplan?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        One Nation does not have a 144-page, five-act master plan that maps out the road for the next 50 years.
+
+        There is a strong intuition about the first steps to be taken. We leave it to time to provide the details and modalities of the profound societal change that awaits us if we want our children to die a good death.
+
+        #BottomUp. One Nation's bet is to let initiatives emerge by themselves. In the field, we live, we invent, we innovate, we allow ourselves to do things differently. When solutions work, they are naturally shared. One Nation then takes over to provide them with a systemic dimension.
+
+        One Nation keep a flexible roadmap that leaves room for surprises. Don't hesitate to take the time to discover the roadmap and why not make a contribution?
+
+        If a minimum version of the roadmap had to be define, it could be:
+
+        1. To recover my personal power at the individual level
+        2. To recover our group power at the collective level
+        3. To change without waiting for change. To embody it straight away at the local level
+        4. To design useful, free, open and well-designed alternatives to the usual instruments of power (money, education, food, information, ...)
+        5. And thus dispossess the powers that be of their main resource: us
     
     creative-disobedience:
-      q: DISOBEDIENCE - Why call for creative disobedience?
+      q: DISOBEDIENCE - Why advocate for creative disobedience?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        The will is not to disobey out of principle, for pleasure, out of a spirit of contradiction. We defend our natural and legitimate rights as human beings. We want to preserve our fundamental freedoms, without which life becomes a slavery.
+
+        Because yes, let's say it! Today, the laws, the legal landscape constrain every day a little more the Life which would like to express itself in us. Slowly, methodically, we are transformed into robots, machines, merchandise.
+
+        To keep our integrity and stay coherent with our values, we are ready to disobey. By disobeying we withdraw our silent consent that gnaws at us internally.
+
+        It is not a question of rejecting all at once in our life 'in society'. It all depends on your life, your situation, the issues that concern you (education, agriculture, transport...). It is not a question of going against, but rather of protecting for...
+        
+        ##### How to stay joyful and creative in disobedience?
+
+        In the face of any unfair situation, there is a creative, artistic solution to maintain one's integrity. It is not a question of blindly be angry or putting oneself in danger, but of finding an original path to hack the situation. And usually it's the number of supporting people that makes the difference.
+
+        This is in fact why we need to be numerous and united. When a Being is threatened in his or her rightfulness, then we are all under attack. And we are fast, creative and elusive...
     
     non-violence:
-      q: NON-VIOLENCE - How to remain pacific whatever happens?
+      q: NON-VIOLENCE - How to remain pacific in all circumstances?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        A very thorny question!
+        It is impossible to answer all possible imaginary scenarios.
+
+        Let us keep in mind that violence is never the solution to resolve a conflict. It can be a natural impulse that is difficult to curb, for which everyone is responsible. Breathing consciously for a few minutes (if possible) is preferable to release the emerging violence, before resolving a problem.
+
+        But above all, it is important not to look for a violent situation, like in a street demonstration for example. Unfortunately, nowadays, this historical mode of expression puts our physical integrity at stake.
+
+        Knowledge is a shield against violence. It is much easier to keep calm when you know your rights. The legal maze can sometimes become a weapon to be turned against an illegitimate system.
+
+        When there is a dispute with the justice system in place, we prefer to believe in the quiet strength of the group, in our creativity, in our spontaneity which makes us unpredictable and resilient. All driven by such strong values of change, it becomes simply obvious to stand together in the face of difficulty.
     
     who:
       q: WHO - Who is behind One Nation?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        Behind One Nation, there are human beings who are or are in the process of being emancipated.
+        And soon maybe you?
+
+        The Manifesto is the cornerstone of One Nation.
+        It was finalised somewhere in Armorica on the 29th of February 2020.
+
+        Those who wrote it are neither rich nor poor, neither sheep nor radicals.
+        It is a gift to the whole Earth, no one can make One Nation their own.
     
     social-networks:
       q: SOCIAL NETWORKS - Where to find One Nation on the internet?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        There is no official One Nation social network. There never will be.
+
+        Everyone expresses their vision, their personal opinion within a multitude called One Nation. So no group on a social network (technically controlled by a handful of moderators) can claim to be the official voice of all of us.
+
+        Online, each individual or collective initiative is therefore visible behind the hashtag #onenation.
+        On your journey, if you come across something you don't like, don't forget that it is the creator's responsibility and not that of all the Beings connected by One Nation.
+
+        To meet in real life you can join the Telegram groups to find out more and find people near you.
     
     fears-paradoxes:
-      q: FEARS & PARADOXES - Letting go of everything for One Nation is scary!
+      q: FEARS & PARADOXES - I am scared to give up everything for One Nation !
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        No one will ask you to leave anything to join One Nation. The only way to "join" One Nation is to find your path to yourself and your creative power.
+
+        We all live different realities, with a different pace. It is not about putting ourselves in danger but living with as much integrity as possible, embodying our values, getting closer to the Self, to that inner voice that would like to guide us towards more harmony.
+
+        Every step that brings us closer to ourselves is a victory. Some people can take giant leaps because they have no ties, no children for example, or no contracts... For others, it may take longer, in gradual steps, one area after another.
+
+        And one should not wait to be perfect, to be without contradictions before acting.
+        No one lives without a few paradoxes, so everything is fine.
+        Remember! The goal is the journey.
     
     open-source:
-      q: OPEN SOURCE - Why create an Open Source Nation?
+      q: OPEN SOURCE - Why create a nation on Github?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        Since no one person can imagine the world of tomorrow on their own.
+        Since the future is open, free and open-source, then One Nation naturally embraces its principles.
+
+        All of this site is editable except for the Manifesto (in French). Everything is to be created, everything is to be imagined, translated, improved... Thanks in advance for your participation!
  
   # PROJECTS FAQ
   projects:
     project-avatars:
       q: AVATARS - What is my One Nation Avatar?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        ##### Foreword
+
+        On the day you are born, you already are a conscious Being.
+        You breathe the air for the first time, you are given a name.
+        You are alive, but at that moment, legally speaking, you do not yet exist.
+
+        It is only later that a legal representative will register you in the official registry of your country. You are now a citizen, your identity is created. You can finally play the big board game.
+
+        So, to sum up, there is:
+
+        You => the conscious biological human being
+        [your first name] [YOUR NAME] [date of birth] [place of birth] [registration number*] => your legal identity
+
+        * Your registration number differs according to your country of birth (social security number, ...)
+
+        You, the human being, you have your legal identity.
+        However, you are not your identity card. You administer it.
+        It is your mandatory avatar to be able to interact with the legal and administrative world, and vice versa. It is the condition for imposing the rules of the game on you.
+
+        These identities are not essential for survival, but are a tool for organising and streamlining life in “society”.
+
+        Currently you have no control over your identity. It is locked and issued by an external authority. Your parents gave you a first name, you inherited a family name. You have to ask for an authorization to modify any parameter (first name, last name, gender, ...)
+
+        ##### One Nation Avatars // Today
+
+        Today, One Nation suggest to you to symbolically regain control over your identity. You are invited (after signing the manifesto with yourself) to design with your own hands an identity card that looks like you: your avatar. You are the only authority able to issue this "identity card".
+
+        Then it is up to you to display your card whenever an authority asks you "show me your papers, please".
+
+        We agree, it is first and foremost a psycho-magical act. It allows us to regain our integrity as human beings. Since we are not our legal selves, we choose when to represent it or not.
+
+        ##### One Nation Avatars // Tomorrow
+
+        One of the first objectives of One Nation is to develop One Crystal: an unalterable digital registry (blockchain-like) to host all the avatars and passports we have issued to ourselves. This open and decentralised registry will constitute the foundation to catalyse all our individual metamorphoses into a collective force.
+
+        The nationality One Nation (self-issued) has no identity purpose. It is the basic building block for designing virtuous systems (e.g., universal income) that are open and open-source. We will then be able to break free from the old and play a new "board game", the one we have really created and chosen.
     
     project-oasis:
-      q: OASIS - How does One Nation Oases run?
+      q: OASIS - How do One Nation territories work?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        An Oasis is a self-proclaimed breathing space in a suffocating system.
+
+        Oases are connected by a collective intention to live in harmonious interdependence with the living. They can take the following forms:
+
+        - A village
+        - A house
+        - A forest
+        - A van
+        - A boat
+        - A bicycle?
+        - A company/initiative/collective
+        - A virtual project
+        - Etc, etc.
+
+        A One Nation Oasis is a collective energy that embodies the values of the manifesto and no longer takes into consideration the dubious injunctions of illegitimate authorities such as states.
+
+        Each Oasis is autonomous and entirely free to choose its organisation. The signing of the Manifesto guarantees unity and coherence between all our differences. Knowing that each one respects the same powerful commitments, we can let the other decide and act freely in complete trust.
+
+        Each Oasis will be face to solve similar problems as other oases, so, One Nation can serve as an architect to centralise and bring a systemic dimension to its emerging open-source solutions. It will then be up to each Oasis to adopt these solutions or not.
     
     project-festivals:
       q: FESTIVALS - Festivals with no program nor organizers? 
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        We dream of seeing dozens, hundreds of One Nation Festivals spring up all over the world.
+        These spontaneous events have a start date, but no end date.
+        We gather around the desire to build together rather than consume together.
+
+        Let's imagine, for example, a piece of land of several dozen hectares. Whether that land is legally acquired or legitimately occupied, "organising" a One Nation Festival is a call to give that place a powerful start. Miracles can be accomplished in a very short period of time to build the starting infrastructures of an Oasis. #CollectiveBuildingSite
+
+        This is the perfect way to observe the magic happening when the energies tune in harmoniously on their own. Many people will pass through. Some, if they feel comfortable there, may make it their new home.
+
+        And maybe your new home? Where you can finally live in harmony with yourself.
+
+        When starting an Oasis through a festival, there is no need to build up files and time-consuming meetings over several years to reach a consensus. You just have to party together and let go, trust... Life is always more creative than our intellect.
+
+        ##### What if we can't find any land?
+
+        The Earth does not belong to the bankers!
+        There are so many abandoned, abused places that need our light to recover some sense again. It's time to reinvest these places attributed to caretakers who clearly do not care for them. Why should the Earth be reserved only for those who have the money to buy it?
+
+        These places need us, so let's take them!
     
     project-wouino:
-      q: WOUINO - Who is the official One Nation's spokesperson?
+      q: WOUINO - Who is the official One Nation spokesperson?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        Wouino does not exist yet.
+        You are free to create Wouino if you feel like it.
+
+        It will be the “spokes-voice” of the multitude of hearts and minds that make up One Nation.
+
+        Its operation will be simple (equivalent to reddit or stack exchange):
+
+        - A question is asked to Wouino
+        - Everyone can answer according to their vision
+        - The "best answers" go up
+        - The person asking the question makes up his/her mind from all these answers classified by relevance
+        - The questions remain open over time and therefore answers may evolve.
+
+        Anyone who claims to be THE VOICE of One Nation is an impostor. Only a system such as Wouino can represent the colourful palette of our visions.
+        In this way no individual can fault the multitude since s/he speaks only on their behalf.
   
   # BORING FAQ
   boring:
     un: 
       q: UN - Do you intend to get international recognition?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        One Nation does not need recognition from any existing legal entity. And especially not from the United Nations which includes all the countries playing the same society board game.
+        
+        We do not ask permission, we rather take hold of our natural et legitimate right to live peacefully on this Earth in harmony with every living things. Since States have been incapable to offer this right, we take it by ourselves.
+
+        At the end, the only recognition that matters is the one we give to each other within One Nation.
     
     constitution: 
-      q: CONSTITUTION - Will One Nation provide itself with its own law texts?
+      q: CONSTITUTION - Will One Nation have its own laws?
       a: |
-        TODO: Translate from French.
-        Interested in translating ? => onenationxyz+translations@protonmail.com
+        Never 😉
+        It's not about making something new out of something old!
+        Our only law is that of trust, kindness and respect.
+        The  necessary values for a peaceful cohabitation on earth are written in the manifesto.
+
+        **One Nation will never promulgate any text of law.**
+
+        One nation is not philosophically (or technically) inclined to write and enforce laws. For a law to exists, we do need an institution in charge of writing texts, and many others to enforce them (usually by force). It's the opposite of One Nation's spirit. We do not believe that a law could be applicable in all places and at all times on Earth.
+
+        Of course, locally, it is up to each Oasis, each Human Being to define and apply their own rules of life.
+        
+        Instead, we imagine One Nation as a hub of creative solutions in order to facilitate fluid relationships between human beings. Each solution is created with the idea that a good design can prevent us from many laws. These free and open solutions have no constraining or binding character.
+
 
 #############
 ## ROADMAP ##
@@ -284,10 +563,10 @@ roadmap:
   content:
     intro:
       p1: |
-        This roadmap is a note of intent, a to do list about the future developments of One Nation.
+        This roadmap is a note of intent for the future developments of One Nation.
       p2: |
-        The more complete, reference roadmap is hosted on [Github's collaborative platform](https://github.com/onenationxyz/onenation/blob/master/roadmap.md). Everything is open-source so feel free to bring your ideas.
-      version: Actual version
+        The master roadmap, more complete, is hosted on [Github's collaborative platform](https://github.com/onenationxyz/onenation/blob/master/roadmap.md). Everything is open-source so feel free to bring your ideas.
+      version: Current version
     
     v1:
       title: Version 1 > Initiate
@@ -295,44 +574,57 @@ roadmap:
     v1-0:
       title: v1.0
       todo: |
-        - Write the Manifest
+        - Draft the Manifesto 
         - Kickstart One Nation (logo, website, roadmap)
-        - Publish everything on [Github](https://github.com/onenationxyz/onenation) (open-source)
+        - Publish everything on [Github](https://github.com/onenationxyz/onenation) in open-source
     
     v1-1:
-      title: v1.1 (todo)
+      title: v1.1 (done)
       todo: |
-        - Invite everybody to create his/her own Avatar (ID card) on a physical support [Read more](#faq-project-avatars)
-        - Build up Wouino, the official collaborative spokeperson of One Nation [Read more+](#faq-project-wouino)
-        - Communicate, share and get together.
-    
+        - Invite everybody to create his/her own Avatar (ID card) on a physical medium [Read more](#faq-project-avatars)
+        - Get together, communicate, create together
+        - Start translating the Manifesto and the website
+
+    v1-2:
+      title: v1.2 (work in progress)
+      todo: |
+        - Design [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) : emancipated digital territory & web of trust
+        - Design [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md) : unalterable decentralised registry for One Nation's passports
+        - Translate to even more languages
+
+    v1-3:
+      title: v1.3 (todo)
+      todo: |
+        - Develop [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) & [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md)
+        - Produce a global viral video
+
     v2:
       title: Version 2 > Refine
       todo: |
-        - Big project : Design & develop "Grand Papyrus", the decentralized and unalterable registry of all One Nation Avatars (and much more)
-        - Organize the first(s) One Nation Festival(s)
-        - Create the firsts One Nation Oasis and share experience feedbacks
-        - Adjust the roadmap with energies present
+        - Organise the first(s) One Nation festival(s)
+        - Observe the firsts One Nation Oases being created and live experiences
+        - Design Wouino, the collaborative spokesperson of One Nation [Read more+](#faq-project-wouino)
+        - Adjust the roadmap with the energies at hand
     
     v3:
       title: Version 3 > Transform
       todo: |
-        - Big project : Design or adopt an alternative currency based on time (on blockchain)
-        - Big project : Design or adopt an open Universal Income
-        - Oasis flourish everywhere on Earth!
-        - Imagin, design, develop and release open source solutions to enhance the resilience of the One Nation Oasis Network
+        - Design (or adopt) an alternative currency based on time
+        - Design (or adopt) an open Universal Income system
+        - Oases are born everywhere on Earth!
+        - Imagine, design, and propose open adoption systems to enhance the resilience of the One Nation Oases Network
     
     v4:
-      title: Version 4 > Récolter
+      title: Version 4 > Harvest
       todo: |
-        - More emancipated beings
-        - More Oases
-        - More joy, beauty, trust, common sense, respect and creativity on Earth!
+        - More and more emancipated beings
+        - More and more Oases
+        - More and more joy, beauty, trust, common sense, respect and creativity on Earth!
     
     vfinal:
       title: Final version > Dissolve
       text: |
-        - Ultimatly, when harmony and trust are the norms, when humanity finally understands that we are all ONE and unique, then we will no longer need One Nation...
+        - Ultimately, when harmony and trust are the norm, when we will have understood that we are all ONE and unique, then we will no longer need One Nation
 
 ################
 ## CONTRIBUTE ##
@@ -345,24 +637,22 @@ contribute:
   
   title: How to contribute ?
   content: |
-    One Nation fully embraces the principles of **stigmergy** inviting everyone to act spontaneously free from needing validation from others. [Read more](#faq-stigmergy)
+    One Nation fully embraces the principles of **stigmergy** which invites everyone to act spontaneously free from needing validation from others. [Read more](#faq-stigmergy)
     
-    ###### Sign the Manifest
+    ###### Print the Manifesto
     
-    If you need some help to start, here are some suggestions:
+    If you need some help getting started, here are some suggestions:
     
-    1. Print/handwrite the Manifest
-    1. Share it with the people around you
+    1. Print/handwrite the Manifesto
+    1. Share it with friends and family
     1. Embody what you have just signed 🥳 
     
-    ###### To meet
+    ###### Meet each other
     
-    Here you won't find any leader or central organization. You are a now a new starting point for the One Nation Network. Find around those ready to initiate and implement The One Nation Manifest, and let's go!
+    Here you won't find any leader or central organization. You are a new starting point for the One Nation. Find or discover those who want to act around you, and off you go!
     
-    Do not hesitate to have a look on Telegram, get in touch with the people around and introduce yourself [Read more](#faq-contribute)
+    Do not hesitate to have a look on Telegram, there are plenty of people to get to know [Read more](#faq-contribute)
     
     ###### About onenation.xyz
     
-    This open-source website is hosted on [Github](https://github.com/onenationxyz/onenation). Everything is editable, except the Manifest. You may give a hand by adding, updating, translating content of the website.
-    
-    If Github is not your cup of tea, please feel free to join the party on [Telegram](#faq-contribuer) or write at onenationxyz@protonmail.com
+    This open-source website is hosted on [Github](https://github.com/onenationxyz/onenation). Everything is editable, except the French version of the Manifesto. You may contribute by adding, updating, translating content of the website.

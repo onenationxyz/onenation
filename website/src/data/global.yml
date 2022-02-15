@@ -1,5 +1,5 @@
 url: https://onenation.xyz/
-onenation_version: "1.0.3"
+onenation_version: "1.1.1"
 
 github:
   url: https://github.com/onenationxyz/onenation/
@@ -12,22 +12,22 @@ pages:
 
 languages:
   fr:
-    name: Parles-tu français ?
+    name: Français
     translation: 100
     color: green
   en: 
-    name: Speaking english ?
-    translation: 75
-    color: yellow
+    name: English
+    translation: 100
+    color: green
   es:
-    name: Hablas español ?
+    name: Español
     translation: 100
     color: green
   it:
-    name: Parli italiano ?
+    name: Italiano
     translation: 20
     color: red
   sk:
-    name: Hovoris slovensky ?
+    name: Slovensky
     translation: 20
     color: red

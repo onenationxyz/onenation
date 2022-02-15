@@ -38,6 +38,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-terser": "^1.4.1",
     "js-yaml": "^3.14.0",
+    "mozjpeg": "^7.0.0",
     "panini": "git+https://github.com/foundation/panini.git#feature/v2.0",
     "rimraf": "^2.7.1",
     "style-sherpa": "^1.0.0",

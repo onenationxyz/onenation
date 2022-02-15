@@ -451,7 +451,7 @@ faq:
 
         ###### Avatars One Nation // Mañana
         
-        Uno de los primeros objetivos de One Nation es de desarrollar el gran Papyrus : un registro digital inalterable (tipo blockchain) para albergar a todos los avatars que nos hemos entregados. Este registro abierto y descentralizado constituirá las fundaciones para catalizar todas nuestras metamorfosis individuales en fuerza colectiva.
+        Uno de los primeros objetivos de One Nation es de desarrollar "One Crystal" : un registro digital inalterable (tipo blockchain) para albergar a todos los avatars y pasaportes que nos hemos entregados. Este registro abierto y descentralizado constituirá las fundaciones para catalizar todas nuestras metamorfosis individuales en fuerza colectiva.
         
         La nacionalidad One Nation (auto-atribuida) no tiene propósito identitario. Es el ladrillo base para concebir sistemas virtuoso (ex : ingreso universal…) abierto y Open-source. Podremos entonces liberarnos del antiguo y jugar un nuevo « juego de sociedad », este que hemos realmente creado y elegido.
     
@@ -573,7 +573,7 @@ roadmap:
     v1-0:
       title: v1.0
       todo: |
-        - Redactar (El Manifiesto)
+        - Redactar El Manifiesto
         - Lanzar One Nation (logo, pagina web, roadmap)
         - Publicar todo en open-source en [Github](https://github.com/onenationxyz/onenation)
     
@@ -581,16 +581,29 @@ roadmap:
       title: v1.1 (todo)
       todo: |
         - Invitar a cada quien a crear su avatar (Doc. de Identidad) en soporte físico [Leer +](#faq-proyecto-avatars)
-        - Concebir Wouino, el porta-voz colaborativo de One Nation [Leer +](#faq-proyecto-wouino)
-        - Comunicar, compartir, encontrarse
-    
+        - Encontrarse, comunicar, compartir
+        - Traducción del Manifiesto y del sitio web
+
+    v1-2:
+      title: v1.2 (work in progress)
+      todo: |
+        - Imaginar [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) : territorio digital emancipado y red de confianza
+        - Imaginer [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md) : registro inalterable y descentralizado para nuestros pasaportes One Nation
+        - Traducir a más idiomas
+
+    v1-3:
+      title: v1.3 (todo)
+      todo: |
+        - Programar [One Crystal](https://github.com/onenationxyz/onecrystal/blob/master/ONECRYSTAL.md) & [Multipass](https://github.com/onenationxyz/onecrystal/blob/master/MULTIPASS.md)
+        - Producir un vídeo viral planetario
+
     v2:
       title: Version 2 > Affinar
       todo: |
-        - Grande obra : Concebir « gran papyrus », el registro inalterable y descentralizado de los avatars One Nation (y mas aun)
         - Organizar los primeros festivales One Nation
-        - Crear los primeros Oasis One Nation y compartir resultados de experiencias
-        - Ajustar la roadmap con las energías presentes
+        - Ver cómo se crean los primeros Oasis One Nation y vivir experiencias
+        - Concebir Wouino, el porta-voz colaborativo de One Nation [Leer +](#faq-proyecto-wouino)
+        - Ajustar la roadmap
     
     v3:
       title: Version 3 > Transformar
