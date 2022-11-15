@@ -1,0 +1,53 @@
+---
+page_id: homepage
+---
+
+<div class="grid-container full" data-sticky-container>
+
+  <!-- MOBILE NAV -->
+  {{> mobile_nav}}
+
+  <!-- HOME HEADER -->
+  {{> home_header}}
+
+  <!-- MAIN MENU -->
+  <section id="main_menu">
+    <ul class="menu align-center show-for-medium" data-magellan>
+      {{> menu}}
+    </ul>
+  </section>
+  
+  <!-- MANIFEST -->
+  {{#if (translate "global.display.manifest")}}
+    {{> manifest}}
+  {{/if}}
+
+  <!-- VISION -->
+  {{#if (translate "global.display.vision")}}
+    <div class="ons-bg-clouds">
+      {{> vision}}
+    </div>
+  {{/if}}
+
+  <!-- DISCLAIMER -->
+  {{#if (translate "global.display.disclaimer")}}
+    <div class="ons-bg-white">
+      {{> disclaimer}}
+    </div>
+  {{/if}}
+
+  <!-- FAQ -->
+  {{#if (translate "global.display.faq")}}
+    {{> faq}}
+  {{/if}}
+  
+  <!-- CONTRIBUTE -->
+  {{#if (translate "global.display.contribute")}}
+    {{> contribute}}
+  {{/if}}
+
+  <!-- FOOTER -->
+  {{> footer}}
+    
+</div>
+

@@ -1,0 +1,21 @@
+---
+page_id: language_homepage
+---
+
+{{> github_ribbon}}
+
+<div class="grid-container">
+  <div class="grid-x align-center text-center">
+    <div class="cell logo small-11 medium-8">
+      <img src="{{ root }}assets/img/onenation_logo_colorful.png" alt="One Nation. Global Emancipation">
+    </div>
+    <div class="languages_list cell expanded">
+      {{#each global.languages}}
+        <p><a href="/{{@key}}"><span class="language_slug">{{@key}}</span>_ {{this.name}}</a> <small class="language-color-{{this.color}}">{{this.translation}}%</small></p>
+      {{/each}}
+    </div>
+    <div class="cell expanded footer">
+      {{> footer}}
+    </div>
+  </div>
+</div>

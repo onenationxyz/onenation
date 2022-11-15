@@ -1,0 +1,32 @@
+url: https://onenation.xyz/
+onenation_version: "1.1.1"
+
+github:
+  url: https://github.com/onenationxyz/onenation/
+  text: Fork me on Github
+  
+pages:
+  home: "/"
+  manifest: manifest.html
+
+languages:
+  fr:
+    name: Français
+    translation: 100
+    color: green
+  en: 
+    name: English
+    translation: 100
+    color: green
+  es:
+    name: Español
+    translation: 100
+    color: green
+  it:
+    name: Italiano
+    translation: 20
+    color: red
+  sk:
+    name: Slovensky
+    translation: 20
+    color: red

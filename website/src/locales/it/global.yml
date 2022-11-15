@@ -1,0 +1,102 @@
+lang: it
+
+display:
+  manifest: true
+  vision: false
+  disclaimer: false
+  faq: false
+  contribute: true
+
+head:
+  title: One Nation 🌍 Global Emancipation
+  description: One Nation è un'ondata di emancipazione planetaria che ti invita a riconquistare con calma il tuo potere personale ea rifiutare qualsiasi autorità illegittima
+ 
+
+##############
+## MANIFEST ##
+##############
+
+manifest:
+  menu:
+    text: Manifesto
+    link: manifesto
+  
+  button:
+    sign: Stampa/Firma il Manifesto
+
+  filename: it_manifesto
+  
+  form:
+      name:
+        name: Come ti chiami?
+        label: Il tuo vero nome (quello che risuona nel tuo cuore)
+      date:
+        name: Data della firma ?
+        label: Con il calendario di vostra scelta
+      color: Scegliere un colore
+      reset: reset
+      print: Stampa il manifesto
+      help: aiuto
+
+  indications:
+    title: Aiuto
+    notice: Si consiglia di utilizzare un computer per stampare il manifesto.
+    content: |
+      **IMPORTANTE**
+      Per una stampa ideale, attiva la funzione "sfondi di stampa" quando stampi/salvi come pdf.
+      
+      **PRINT**
+      Per stampare cliccate sul pulsante "Stampa" o usate direttamente la funzione del browser File > Stampa.
+      
+      **SALVA COME PDF**
+      La maggior parte dei browser permette di salvare in PDF invece di stampare.
+      
+      **MANIFESTO VERGINE**
+      Per stampare il Manifesto in bianco, basta lasciare i campi vuoti (o usare il pulsante di reset).
+      
+      **VITA PRIVATA**
+      Nessun dato viene inviato o memorizzato su un server. Tutto avviene sul tuo dispositivo.
+      
+      **TRADUZIONE**
+      La versione francese è considerata l'originale. La versione italiana ha bisogno di essere revisionata da madrelingua.
+
+
+
+
+############
+## VISION ##
+############
+
+
+
+
+################
+## DISCLAIMER ##
+################
+
+
+
+
+#########
+## FAQ ##
+#########
+
+
+
+
+################
+## CONTRIBUTE ##
+################
+
+contribute:
+  menu:
+    text: Contribuire
+    link: contribuire
+  
+  title: Come contribuire?
+  content: |
+    Ecco come aiutare a diffondere One Nation in lingua italiana:
+      - **Controlla il Manifesto**: deve essere corretto da più persone che parlano italiano nativo (e rispetto all'originale in francese)
+      - **Traduci questo sito web** (dalla lingua francese)
+    
+    Grazie in anticipo ! E non esitate a far circolare il Manifesto intorno a voi 😉

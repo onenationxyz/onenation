@@ -1,0 +1,15 @@
+{{#if (translate "global.display.vision")}}
+  <li><a href="#{{translate "global.manifest.menu.link"}}">{{translate "global.manifest.menu.text"}}</a></li>
+  <li class="ons-separator"></li>
+  <li><a href="#{{translate "global.vision.menu.link"}}">{{translate "global.vision.menu.text"}}</a></li>
+
+  {{#if (translate "global.display.faq")}}
+    <li class="ons-separator"></li>
+    <li><a href="#{{translate "global.faq.menu.link"}}">{{translate "global.faq.menu.text"}}</a></li>
+  {{/if}}
+
+  {{#if (translate "global.display.contribute")}}
+    <li class="ons-separator"></li>
+    <li><a href="#{{translate "global.contribute.menu.link"}}">{{translate "global.contribute.menu.text"}}</a></li>
+  {{/if}}
+{{/if}}
